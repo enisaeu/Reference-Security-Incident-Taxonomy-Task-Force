@@ -1,0 +1,2 @@
+# Reference-Security-Incident-Taxonomy-Task-Force
+Following a discussion amongst the CSIRT community during the ‘51st TF-CSIRT meeting’  (15 May 2017 in The Hague, Netherlands), it was concluded that there is an urgent need for a taxonomy list and name that serves as a fixed reference for everyone. This is why ENISA and TF-CSIRT created the ‘Reference Security Incident Taxonomy Task force".  The aim of this task force is to enable the CSIRT community in reaching a consensus on a reference taxonomy. 
