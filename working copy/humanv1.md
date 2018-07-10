@@ -8,13 +8,12 @@ See the [machine readable version](machinev1) as well. It should have an identic
 | Abusive Content 	| Spam 	|
 |  	| Harmful Speech 	|
 |  	| Child/Sexual/Violence/... 	|
-| Malicious Code 	| Virus 	|
-|  	| Worm 	|
-|  	| Trojan 	|
-|  	| Spyware 	|
-|  	| Dialler 	|
-|  	| Rootkit 	|
-| Information Gathering 	| Scanning 	|
+| Malicious Code 	| Infected System       |
+|                       | C2 Server             |
+|                       | Malware Distribution  |
+|                       | Malware Configuration	|
+|                       | Malware DGA Domain    |
+| Information Gathering | Scanning 	|
 |  	| Sniffing 	|
 |  	| Social engineering 	|
 | Intrusion Attempts 	| Exploiting known vulnerabilities 	|
