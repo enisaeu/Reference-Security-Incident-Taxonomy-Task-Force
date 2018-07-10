@@ -23,48 +23,24 @@
     {
       "entry": [
         {
-          "expanded": "Virus",
-          "value": "virus"
+          "expanded": "Infected System",
+          "value": "infected-system"
         },
         {
-          "expanded": "Worm",
-          "value": "worm"
+          "expanded": "C2 Server",
+          "value": "c2-server"
         },
         {
-          "expanded": "Trojan",
-          "value": "trojan"
+          "expanded": "Malware Distribution",
+          "value": "malware-distribution"
         },
         {
-          "expanded": "Spyware",
-          "value": "spyware"
-        },
-        {
-          "expanded": "Dialer",
-          "value": "dialer"
-        },
-        {
-          "expanded": "Rootkit",
-          "value": "rootkit"
-        },
-        {
-          "expanded": "Malware",
-          "value": "malware"
-        },
-        {
-          "expanded": "Botnet drone",
-          "value": "botnet-drone"
-        },
-        {
-          "expanded": "Ransomware",
-          "value": "ransomware"
-        },
-        {
-          "expanded": "Malware configuration",
+          "expanded": "Malware Configuration",
           "value": "malware-configuration"
         },
         {
-          "expanded": "C&C",
-          "value": "c&c"
+          "expanded": "Malware DGA Domain",
+          "value": "malware-dga-domain"
         }
       ],
       "predicate": "malicious-code"
