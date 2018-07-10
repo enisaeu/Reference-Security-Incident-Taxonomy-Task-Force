@@ -1,4 +1,9 @@
-| REFERENCE TAXONOMY INCIDENT CLASSIFICATION (1ST COLUMN) 	| INCIDENT EXAMPLES (2ND COLUMN) 	|
+# REFERENCE TAXONOMY INCIDENT  Taxonomy (human readable version)
+
+See the XXX insert link XXX machine readable version as well. 
+
+
+| CLASSIFICATION (1ST COLUMN) 	| INCIDENT EXAMPLES (2ND COLUMN) 	|
 |---------------------------------------------------------	|------------------------------------	|
 | Abusive Content 	| Spam 	|
 |  	| Harmful Speech 	|
