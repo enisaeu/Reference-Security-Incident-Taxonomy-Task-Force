@@ -34,7 +34,7 @@ For changes and the addition of new fields, the process is the following:
 * The TF will discuss the proposal(s) during the next physical meeting and vote.
 
 Please note that:
-* The first column is of the “must” (mandatory) type, the second column is of the “should” (recommended but not mandatory) type. 
+* The first column is of the “MUST” (mandatory) type, the second column is of the “SHOULD” (recommended but not mandatory) type. 
 
 ### Voting mechanism
 There are two voting procedures in place.
