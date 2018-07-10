@@ -13,7 +13,7 @@ See the [machine readable version](machinev1) as well. It should have an identic
 |                       | Malware Distribution  |
 |                       | Malware Configuration	|
 |                       | Malware DGA Domain    |
-| Information Gathering | Scanning 	|
+| Information Gathering 	| Scanning 	|
 |  	| Sniffing 	|
 |  	| Social engineering 	|
 | Intrusion Attempts 	| Exploiting known vulnerabilities 	|
