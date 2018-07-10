@@ -1,6 +1,6 @@
 # REFERENCE TAXONOMY INCIDENT  Taxonomy (human readable version)
 
-See the XXX insert link XXX machine readable version as well. 
+See the [machine readable version](machinev1) as well. It should have an identical contents to the human readable version.
 
 
 | CLASSIFICATION (1ST COLUMN) 	| INCIDENT EXAMPLES (2ND COLUMN) 	|
