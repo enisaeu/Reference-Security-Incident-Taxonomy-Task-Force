@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
-from __future__ import __print_function__
+from __future__ import print_function
 
 """ machinetag2human.py
 Copyright 2018 Aaron Kaplan <kaplan@cert.at>
@@ -16,7 +16,7 @@ import json
 from datetime import datetime
 
 if len(sys.argv) != 2:
-    print("syntax: %s  <inputfile>" %sys.argv[0], file=sys.stderr)
+    print("syntax: %s  <inputfile>" %(sys.argv[0],), file=sys.stderr)
     sys.exit(-1)
 
 infile = sys.argv[1]
