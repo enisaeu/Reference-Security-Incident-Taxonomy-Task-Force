@@ -51,31 +51,6 @@
           "description": "see 'virus'",
           "expanded": "Rootkit",
           "value": "rootkit"
-        },
-        {
-          "description": "see 'virus'",
-          "expanded": "Malware",
-          "value": "malware"
-        },
-        {
-          "description": "see 'virus'",
-          "expanded": "Botnet drone",
-          "value": "botnet-drone"
-        },
-        {
-          "description": "see 'virus'",
-          "expanded": "Ransomware",
-          "value": "ransomware"
-        },
-        {
-          "description": "see 'virus'",
-          "expanded": "Malware configuration",
-          "value": "malware-configuration"
-        },
-        {
-          "description": "see 'virus'",
-          "expanded": "C&C",
-          "value": "c&c"
         }
       ],
       "predicate": "malicious-code"
@@ -141,21 +116,6 @@
           "description": "see 'Privileged Account Compromise'",
           "expanded": "Bot",
           "value": "bot"
-        },
-        {
-          "description": "see 'Privileged Account Compromise'",
-          "expanded": "defacement",
-          "value": "defacement"
-        },
-        {
-          "description": "see 'Privileged Account Compromise'",
-          "expanded": "compromised",
-          "value": "compromised"
-        },
-        {
-          "description": "see 'Privileged Account Compromise'",
-          "expanded": "backdoor",
-          "value": "backdoor"
         }
       ],
       "predicate": "intrusions"
@@ -196,11 +156,6 @@
           "description": "see 'Unauthorised access to information'",
           "expanded": "Unauthorised modification of information",
           "value": "Unauthorised-information-modification"
-        },
-        {
-          "description": "see 'Unauthorised access to information'",
-          "expanded": "dropzone",
-          "value": "dropzone"
         }
       ],
       "predicate": "information-content-security"
