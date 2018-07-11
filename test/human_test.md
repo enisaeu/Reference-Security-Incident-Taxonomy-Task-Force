@@ -8,7 +8,7 @@ See the [machine readable version](machinev1) as well. It should have an identic
 Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
 
 Version: 1
-Generated from [machine readable version](machinev1) on 2018-07-11 15:41:35.697847
+Generated from [machine readable version](machinev1)
 
 
 | CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
@@ -52,7 +52,5 @@ Generated from [machine readable version](machinev1) on 2018-07-11 15:41:35.6978
 | fraud | Masquerade | Type of attacks in which one entity illegitimately assumes the identity of another in order to benefit from it. |
 | fraud | Phishing | Masquerading as another entity in order to persuade the user to reveal a private credential. |
 | vulnerable | Open for abuse | Open resolvers, world readable printers, vulnerability apparent from Nessus etc scans, virus, signatures not up to date, etc. |
-| other | blacklist |  |
-| other | unknown |  |
-| other | other |  |
+| other | other | All incidents which don't fit in one of the given categories should be put into this class. |
 | test | Test | Meant for testing. |
