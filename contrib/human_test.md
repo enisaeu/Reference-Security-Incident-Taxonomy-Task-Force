@@ -8,7 +8,7 @@ See the [machine readable version](machinev1) as well. It should have an identic
 Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
 
 Version: 1
-Generated from [machine readable version](machinev1) on 2018-07-11 15:31:57.626744
+Generated from [machine readable version](machinev1) on 2018-07-11 15:35:22.673376
 
 
 | CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
@@ -16,17 +16,17 @@ Generated from [machine readable version](machinev1) on 2018-07-11 15:31:57.6267
 | abusive-content | spam | Or 'Unsolicited Bulk Email', this means that the recipient has not granted verifiable permission for the message to be sent and that the message is sent as part of a larger collection of messages, all having a functionally comparable content. |
 | abusive-content | Harmful Speech | Discreditation or discrimination of somebody e.g. cyber stalking, racism and threats against one or more individuals). |
 | abusive-content | Child/Sexual/Violence/... | Child Pornography, glorification of violence, ... |
-| malicious-code | Virus |  |
-| malicious-code | Worm |  |
-| malicious-code | Trojan |  |
-| malicious-code | Spyware |  |
-| malicious-code | Dialer |  |
-| malicious-code | Rootkit |  |
-| malicious-code | Malware |  |
-| malicious-code | Botnet drone |  |
-| malicious-code | Ransomware |  |
-| malicious-code | Malware configuration |  |
-| malicious-code | C&C |  |
+| malicious-code | Virus | Software that is intentionally included or inserted in a system for a harmful purpose. A user interaction is normally necessary to activate the code. |
+| malicious-code | Worm | see 'virus' |
+| malicious-code | Trojan | see 'virus' |
+| malicious-code | Spyware | see 'virus' |
+| malicious-code | Dialer | see 'virus' |
+| malicious-code | Rootkit | see 'virus' |
+| malicious-code | Malware | see 'virus' |
+| malicious-code | Botnet drone | see 'virus' |
+| malicious-code | Ransomware | see 'virus' |
+| malicious-code | Malware configuration | see 'virus' |
+| malicious-code | C&C | see 'virus' |
 | information-gathering | Scanning | Attacks that send requests to a system to discover weak points. This includes also some kind of testing processes to gather information about hosts, services and accounts. Examples: fingerd, DNS querying, ICMP, SMTP (EXPN, RCPT, ...), port scanning. |
 | information-gathering | Sniffing | Observing and recording of network traffic (wiretapping). |
 | information-gathering | Social Engineering | Gathering information from a human being in a non-technical way (e.g. lies, tricks, bribes, or threats). |

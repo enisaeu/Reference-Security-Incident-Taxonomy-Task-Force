@@ -23,46 +23,57 @@
     {
       "entry": [
         {
+          "description": "Software that is intentionally included or inserted in a system for a harmful purpose. A user interaction is normally necessary to activate the code.",
           "expanded": "Virus",
           "value": "virus"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Worm",
           "value": "worm"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Trojan",
           "value": "trojan"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Spyware",
           "value": "spyware"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Dialer",
           "value": "dialer"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Rootkit",
           "value": "rootkit"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Malware",
           "value": "malware"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Botnet drone",
           "value": "botnet-drone"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Ransomware",
           "value": "ransomware"
         },
         {
+          "description": "see 'virus'",
           "expanded": "Malware configuration",
           "value": "malware-configuration"
         },
         {
+          "description": "see 'virus'",
           "expanded": "C&C",
           "value": "c&c"
         }
