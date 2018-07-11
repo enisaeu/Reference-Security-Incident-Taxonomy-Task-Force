@@ -1,7 +1,7 @@
 # How to contribute
 
 Please carefully read the [Terms of Reference](Documentation/ToR.md) **first**. 
-Then, when sure you understood it, please only edit the [machinetag](working copy/machinev1) file. The human readable file will be generated from it.
+Then, when sure you understood it, please only edit the [machinetag](working_copy/machinev1) file. The human readable file will be generated from it.
 
 Bug reports, wishes etc, should go via the issue tracker in github.
 
