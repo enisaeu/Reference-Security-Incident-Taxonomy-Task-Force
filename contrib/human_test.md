@@ -8,12 +8,11 @@ See the [machine readable version](machinev1) as well. It should have an identic
 Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
 
 Version: 1
-Generated from [machine readable version](machinev1) on 2018-07-11 14:53:44.239395
+Generated from [machine readable version](machinev1) on 2018-07-11 15:31:57.626744
 
 
 | CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
 |---------------------------------------------------------      |------------------------------------   |------------------------|
-
 | abusive-content | spam | Or 'Unsolicited Bulk Email', this means that the recipient has not granted verifiable permission for the message to be sent and that the message is sent as part of a larger collection of messages, all having a functionally comparable content. |
 | abusive-content | Harmful Speech | Discreditation or discrimination of somebody e.g. cyber stalking, racism and threats against one or more individuals). |
 | abusive-content | Child/Sexual/Violence/... | Child Pornography, glorification of violence, ... |

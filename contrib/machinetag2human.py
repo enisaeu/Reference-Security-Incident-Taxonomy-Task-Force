@@ -81,8 +81,7 @@ Generated from [machine readable version](machinev1) on %s
 
 
 | CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
-|---------------------------------------------------------      |------------------------------------   |------------------------|
-""" %(data['description'], data['version'], str(datetime.now())))
+|---------------------------------------------------------      |------------------------------------   |------------------------|""" %(data['description'], data['version'], str(datetime.now())))
 
 
 
