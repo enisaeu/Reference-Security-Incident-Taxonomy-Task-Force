@@ -243,14 +243,7 @@
     {
       "entry": [
         {
-          "expanded": "blacklist",
-          "value": "blacklist"
-        },
-        {
-          "expanded": "unknown",
-          "value": "unknown"
-        },
-        {
+          "description": "All incidents which don't fit in one of the given categories should be put into this class.",
           "expanded": "other",
           "value": "other"
         }
