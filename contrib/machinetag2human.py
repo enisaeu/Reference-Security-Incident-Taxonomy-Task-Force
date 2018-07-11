@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-""" machinetag2human.py 
+from __future__ import __print_function__
+
+""" machinetag2human.py
 Copyright 2018 Aaron Kaplan <kaplan@cert.at>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
@@ -64,8 +66,6 @@ example entry of the input file:
 """
 
 
-
-
 def print_header(data):
     print("""
 # REFERENCE TAXONOMY INCIDENT  Taxonomy (human readable version)
@@ -77,12 +77,11 @@ See the [machine readable version](machinev1) as well. It should have an identic
 Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
 
 Version: %s
-Generated from [machine readable version](machinev1) on %s
+Generated from [machine readable version](machinev1)
 
 
 | CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
-|---------------------------------------------------------      |------------------------------------   |------------------------|""" %(data['description'], data['version'], str(datetime.now())))
-
+|---------------------------------------------------------      |------------------------------------   |------------------------|""" %(data['description'], data['version']))                  # , str(datetime.now())))
 
 
 def print_entries(data):
@@ -93,15 +92,12 @@ def print_entries(data):
             print('| %s | %s | %s |' %(classification, t['expanded'], d))
 
 
-
 if __name__ == '__main__':
-
-    try: 
+    try:
         with open(infile) as f:
                 data = json.load(f)
                 print_header(data)
                 print_entries(data)
-    except  Exception as ex:
+    except Exception as ex:
         print("could not open or parse json input file. Reason: %s" %str(ex))
         sys.exit(-2)
-    
