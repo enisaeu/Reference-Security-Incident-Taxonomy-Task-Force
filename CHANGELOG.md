@@ -8,4 +8,4 @@
   * created a script to convert the machinetag version to a human readable markdown version
   * added this CHANGELOG file
   * added a CONTRIBUTING file for github
-
+  * create a test directory, ignore for now pls
