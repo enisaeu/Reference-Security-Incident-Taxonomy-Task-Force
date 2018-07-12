@@ -59,7 +59,7 @@ example entry of the input file:
   ],
   "version": 1,
   "description": "Reference Security Incident Classification Taxonomy",
-  "namespace": "RSIT"
+  "namespace": "rsit"
 }
 
 ===============================
