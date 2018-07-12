@@ -93,32 +93,24 @@
     {
       "entry": [
         {
+          "description": "A successful compromise of a system or application (service). This can have been caused remotely by a known or new vulnerability, but also by an unauthorized local access. Also includes being part of a botnet.",
           "expanded": "Privileged Account Compromise",
           "value": "privileged-account-compromise"
         },
         {
+          "description": "see 'Privileged Account Compromise'",
           "expanded": "Unprivileged Account Compromise",
           "value": "unprivileged-account-compromise"
         },
         {
+          "description": "see 'Privileged Account Compromise'",
           "expanded": "Application Compromise",
           "value": "application-compromise"
         },
         {
+          "description": "see 'Privileged Account Compromise'",
           "expanded": "Bot",
           "value": "bot"
-        },
-        {
-          "expanded": "defacement",
-          "value": "defacement"
-        },
-        {
-          "expanded": "compromised",
-          "value": "compromised"
-        },
-        {
-          "expanded": "backdoor",
-          "value": "backdoor"
         }
       ],
       "predicate": "intrusions"
@@ -151,16 +143,14 @@
     {
       "entry": [
         {
+          "description": "Besides local abuse of data and systems, the security of information can be endangered by successful compromise of an account or application. In addition, attacks that intercept and access information during transmission (wiretapping, spoofing or hijacking) are possible.  Human/configuration/software error can also be the cause.",
           "expanded": "Unauthorised access to information",
           "value": "Unauthorised-information-access"
         },
         {
+          "description": "see 'Unauthorised access to information'",
           "expanded": "Unauthorised modification of information",
           "value": "Unauthorised-information-modification"
-        },
-        {
-          "expanded": "dropzone",
-          "value": "dropzone"
         }
       ],
       "predicate": "information-content-security"
@@ -193,6 +183,7 @@
     {
       "entry": [
         {
+          "description": "Open resolvers, world readable printers, vulnerability apparent from Nessus etc scans, virus, signatures not up to date, etc.",
           "expanded": "Open for abuse",
           "value": "vulnerable-service"
         }
@@ -202,14 +193,7 @@
     {
       "entry": [
         {
-          "expanded": "blacklist",
-          "value": "blacklist"
-        },
-        {
-          "expanded": "unknown",
-          "value": "unknown"
-        },
-        {
+          "description": "All incidents which don't fit in one of the given categories should be put into this class.",
           "expanded": "other",
           "value": "other"
         }
@@ -219,6 +203,7 @@
     {
       "entry": [
         {
+          "description": "Meant for testing.",
           "expanded": "Test",
           "value": "test"
         }
