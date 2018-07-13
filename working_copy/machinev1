@@ -193,17 +193,17 @@
           "value": "weak-crypto"
         },
         {
-          "description": "Publicly accessible services that can be abused for conducting DDoS reflection/amplification attacks, e.g. DNS open-resolvers or NTP servers with monlist enabled."
+          "description": "Publicly accessible services that can be abused for conducting DDoS reflection/amplification attacks, e.g. DNS open-resolvers or NTP servers with monlist enabled.",
           "expanded": "DDoS amplifier",
           "value": "ddos-amplifier"
         },
         {
-          "description": "Potentially unwanted publicly accessible services, e.g. Telnet, RDP or VNC."
+          "description": "Potentially unwanted publicly accessible services, e.g. Telnet, RDP or VNC.",
           "expanded": "Potentially unwanted accessible services",
           "value": "potentially-unwanted-accessible"
         },
         {
-          "description": "Publicly accessible services potentially disclosing sensitive information, e.g. SNMP or Redis."
+          "description": "Publicly accessible services potentially disclosing sensitive information, e.g. SNMP or Redis.",
           "expanded": "Information disclosure",
           "value": "information-disclosure"
         },
