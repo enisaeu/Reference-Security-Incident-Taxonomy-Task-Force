@@ -188,9 +188,29 @@
     {
       "entry": [
         {
-          "description": "Open resolvers, world readable printers, vulnerability apparent from Nessus etc scans, virus, signatures not up to date, etc.",
-          "expanded": "Open for abuse",
-          "value": "vulnerable-service"
+          "description": "Publicly accessible services offering weak crypto, e.g. web servers susceptible to POODLE/FREAK attacks.",
+          "expanded": "Weak crypto",
+          "value": "weak-crypto"
+        },
+        {
+          "description": "Publicly accessible services that can be abused for conducting DDoS reflection/amplification attacks, e.g. DNS open-resolvers or NTP servers with monlist enabled."
+          "expanded": "DDoS amplifier",
+          "value": "ddos-amplifier"
+        },
+        {
+          "description": "Potentially unwanted publicly accessible services, e.g. Telnet, RDP or VNC."
+          "expanded": "Potentially unwanted accessible services",
+          "value": "potentially-unwanted-accessible"
+        },
+        {
+          "description": "Publicly accessible services potentially disclosing sensitive information, e.g. SNMP or Redis."
+          "expanded": "Information disclosure",
+          "value": "information-disclosure"
+        },
+        {
+          "description": "Vulnerable services not fitting in any category.",
+          "expanded": "Other",
+          "value": "other"
         }
       ],
       "predicate": "vulnerable"
