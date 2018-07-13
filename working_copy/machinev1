@@ -8,7 +8,7 @@
           "value": "spam"
         },
         {
-          "description": "Discreditation or discrimination of somebody, e.g. cyber stalking, racism and threats against one or more individuals.",
+          "description": "Discreditation or discrimination of somebody, e.g. cyber stalking, racism or threats against one or more individuals.",
           "expanded": "Harmful Speech",
           "value": "harmful-speech"
         },
