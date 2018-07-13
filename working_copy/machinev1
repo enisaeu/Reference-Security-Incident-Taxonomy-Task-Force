@@ -123,23 +123,23 @@
     {
       "entry": [
         {
-          "description": "Denial of Service.",
+          "description": "Denial of Service attack, e.g. sending specially crafted requests to a web application which causes the application to crash or slow down.",
           "expanded": "DoS",
           "value": "dos"
         },
         {
-          "description": "Distributed Denial of Service.",
+          "description": "Distributed Denial of Service attack, e.g. SYN-Flood or UDP-based reflection/amplification attacks.",
           "expanded": "DDoS",
           "value": "ddos"
         },
         {
-          "description": "Sabotage.",
+          "description": "Physical sabotage, e.g cutting wires or malicious arson.",
           "expanded": "Sabotage",
           "value": "sabotage"
         },
         {
-          "description": "Outage (no malice).",
-          "expanded": "Outage (no malice)",
+          "description": "Outage (no malice) caused e.g. by air condition failure or natural disaster.",
+          "expanded": "Outage",
           "value": "outage"
         }
       ],
