@@ -198,6 +198,16 @@
     {
       "entry": [
         {
+          "description": "A client system which is vulnerable to certain attacks. Example: misconfigured client proxy settings (example: WPAD), outdated operating system version, etc.",
+          "expanded": "Vulnerable client system",
+          "value": "vulnerable-client"
+        }
+      ],
+      "predicate": "vulnerable"
+    },
+    {
+      "entry": [
+        {
           "description": "All incidents which don't fit in one of the given categories should be put into this class.",
           "expanded": "other",
           "value": "other"
