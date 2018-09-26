@@ -98,24 +98,24 @@
     {
       "entry": [
         {
-          "description": "A successful compromise of a system or application (service). This can have been caused remotely by a known or new vulnerability, but also by an unauthorized local access. Also includes being part of a botnet.",
+          "description": "Compromise of a system where the attacker gained administrative privileges.",
           "expanded": "Privileged Account Compromise",
           "value": "privileged-account-compromise"
         },
         {
-          "description": "see 'Privileged Account Compromise'",
+          "description": "Compromise of a system using an unprivileged (user/service) account.",
           "expanded": "Unprivileged Account Compromise",
           "value": "unprivileged-account-compromise"
         },
         {
-          "description": "see 'Privileged Account Compromise'",
+          "description": "Compromise of an application by exploiting (un)known software vulnerabilities, e.g. SQL injection.",
           "expanded": "Application Compromise",
           "value": "application-compromise"
         },
         {
-          "description": "see 'Privileged Account Compromise'",
-          "expanded": "Bot",
-          "value": "bot"
+          "description": "Physical intrusion, e.g. into corporate building or data center.",
+          "expanded": "Burglary",
+          "value": "burglary"
         }
       ],
       "predicate": "intrusions"
