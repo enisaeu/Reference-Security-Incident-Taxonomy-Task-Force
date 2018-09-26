@@ -211,11 +211,6 @@
           "description": "Publicly accessible services potentially disclosing sensitive information, e.g. SNMP or Redis.",
           "expanded": "Information disclosure",
           "value": "information-disclosure"
-        },
-        {
-          "description": "Vulnerable services not fitting in any category.",
-          "expanded": "Other",
-          "value": "other"
         }
       ],
       "predicate": "vulnerable"

@@ -47,7 +47,6 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 | Vulnerable | DDoS amplifier | Publicly accessible services that can be abused for conducting DDoS reflection/amplification attacks, e.g. DNS open-resolvers or NTP servers with monlist enabled. |
 | Vulnerable | Potentially unwanted accessible services | Potentially unwanted publicly accessible services, e.g. Telnet, RDP or VNC. |
 | Vulnerable | Information disclosure | Publicly accessible services potentially disclosing sensitive information, e.g. SNMP or Redis. |
-| Vulnerable | Other | Vulnerable services not fitting in any category. |
 | Vulnerable | Vulnerable system | A system which is vulnerable to certain attacks. Example: misconfigured client proxy settings (example: WPAD), outdated operating system version, etc. |
 | Other | Other | All incidents which don't fit in one of the given categories should be put into this class. |
 | Test | Test | Meant for testing. |
