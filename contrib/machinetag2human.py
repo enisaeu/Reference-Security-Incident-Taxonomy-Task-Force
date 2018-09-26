@@ -22,7 +22,7 @@ if len(sys.argv) != 2:
 infile = sys.argv[1]
 
 data = dict()
-
+predicates = dict()
 
 """
 ===============================
@@ -85,11 +85,13 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 
 
 def print_entries(data):
+    for predicate in data['predicates']:
+        predicates[predicate['value']] = predicate['expanded']
+
     for entry in data['values']:
-        classification = entry['predicate']
         for t in entry['entry']:
             d = t.get('description', '')
-            print('| %s | %s | %s |' %(classification, t['expanded'], d))
+            print('| %s | %s | %s |' %(predicates[entry['predicate']], t['expanded'], d))
 
 
 if __name__ == '__main__':
