@@ -1,4 +1,4 @@
-# Reference Security Incident Taxonomy Working Group
+# Reference Security Incident Taxonomy Working Group – RSIT WG 
 Following a discussion amongst the CSIRT community during the ‘51st TF-CSIRT meeting’  (15 May 2017 in The Hague, Netherlands), it was concluded that there is an urgent need for a taxonomy list and name that serves as a fixed reference for everyone. This is why ENISA and TF-CSIRT created the ‘Reference Security Incident Taxonomy Working Group".  The aim of this working group is to enable the CSIRT community in reaching a consensus on a reference taxonomy. 
 
 Reference Security Incident Taxonomy Working Group was approved as official TF-CSIRT working group by the TF-CSIRT Steering Committee on 26 September 2018.
