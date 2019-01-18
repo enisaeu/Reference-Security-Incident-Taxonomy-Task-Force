@@ -17,5 +17,5 @@ list here all tools that make use of the taxonomy
   * Name of team
 
 ##  Statistics based on the RSIT WG taxonomy
-  * Insert link to the statistics based on the RSIT WG taxonomy 
+  * [CERT-LV](https://cert.lv/lv/incidenti/statistika)
   
