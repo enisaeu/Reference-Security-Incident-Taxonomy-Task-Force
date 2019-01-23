@@ -114,13 +114,18 @@
       "entry": [
         {
           "description": "Denial of Service attack, e.g. sending specially crafted requests to a web application which causes the application to crash or slow down.",
-          "expanded": "DoS",
+          "expanded": "Denial of Service",
           "value": "dos"
         },
         {
           "description": "Distributed Denial of Service attack, e.g. SYN-Flood or UDP-based reflection/amplification attacks.",
-          "expanded": "DDoS",
+          "expanded": "Distributed Denial of Service",
           "value": "ddos"
+        },
+        {
+          "description": "Software misconfiguration resulting in service availability issues, e.g. DNS server with outdated DNSSEC Root Zone KSK.",
+          "expanded": "Misconfiguration",
+          "value": "misconfiguration"
         },
         {
           "description": "Physical sabotage, e.g cutting wires or malicious arson.",
