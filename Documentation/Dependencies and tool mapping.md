@@ -17,6 +17,6 @@ list here all tools that make use of the taxonomy
   * [CERT.at](https://www.cert.at)
 
 ##  Statistics based on the RSIT WG taxonomy
-  * [CERT-LV](https://cert.lv/lv/incidenti/statistika)
+  * [Incident statistics per Month and Quarter of CERT-LV](https://cert.lv/lv/incidenti/statistika)
   * [CERT.at yearly report](https://cert.at/downloads/reports/jahresbericht-2017.html) 2017 (german only)
   
