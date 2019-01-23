@@ -140,12 +140,12 @@
         {
           "description": "Unauthorized access to information, e.g. by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents.",
           "expanded": "Unauthorised access to information",
-          "value": "Unauthorised-information-access"
+          "value": "unauthorised-information-access"
         },
         {
           "description": "Unauthorised modification of information, e.g. by an attacker abusing stolen login credentials for a system or application or a ransomware encrypting data.",
           "expanded": "Unauthorised modification of information",
-          "value": "Unauthorised-information-modification"
+          "value": "unauthorised-information-modification"
         },
         {
           "description": "Loss of data, e.g. caused by harddisk failure or physical theft.",
