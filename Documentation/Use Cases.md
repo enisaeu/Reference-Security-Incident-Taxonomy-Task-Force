@@ -1,8 +1,8 @@
-# Reference-Security-Incident-Taxonomy-Task-Force Use cases
+# Reference-Security-Incident-Taxonomy-Working-Group Use cases
 To give a better understanding of how a reference taxonomy can be of benefit for the community, we list here a series of high level use cases. 
 
 # Incident handling 
-The taxonomy is used within the IR tool used by the team, for information sharing with other teams or to pivot mapping with another taxonomy used by another team/external entity.
+The taxonomy is used within the Incident Response (IR) tool used by the team, for information sharing with other teams or to pivot mapping with another taxonomy used by another team/external entity.
 
 # Incident reporting
 The taxonomy is used for post mortem incident reporting to the top management or to an external entity and to pivot mapping with another taxonomy used by another team/ external entity.
