@@ -7,7 +7,7 @@ Meeting: Reference taxonomy meeting Location: Tallinn Date: 23/01/2018
 - Other pending actions
 - Review pulled changes
 - Additional items
-- RSIT WG next meetings and outreachn
+- RSIT WG next meetings and outreach
 
 # Review of the actions:
 ## Actions from last meeting
