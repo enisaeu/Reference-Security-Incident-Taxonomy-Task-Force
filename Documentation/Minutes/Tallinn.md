@@ -36,7 +36,6 @@ ALL WG to
 - [ ] Finalize Acknowledgement of Jimmy Arvidsson, Don Stikvoort and eCSIRT.net on the Github https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/26 
 - [ ] Formalize Vilnius Version with CC0
 
-
 # Review pulled changes
 
 ## Availability/Misconfiguration
@@ -63,25 +62,25 @@ ALL decided for string and created license file
 
 # Additional items discussed
 
-##Multiple value management
+## Multiple value management
 how to use and which cases make sense(i.e. Multiuple tags in MSIP and IntelMQ)
  See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/34
 
-###Actions
+### Actions
 CERT.at	GOVERCERTLU and CESNET will submit ideas for multiple values management on the mailing list by 29/03
 Discussion on the mailing and proposal for next meeting. Add document.
 
-##http://www.ecsirt.net/ reference 
+## http://www.ecsirt.net/ reference 
 ask owner to add pointer to RSIT WG 
 
-###Actions
+### Actions
 ENISA Will talk to owner 
 
 ## How to classify SEO spam injections/Search Engine Ranking Hacks? #31 
 
  See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/31
 
-###Actions
+### Actions
 WG to add guidance on how to classify multiple values and then count stats for multiple values. These will be topics of the first examples
 
 
@@ -89,18 +88,18 @@ WG to add guidance on how to classify multiple values and then count stats for m
  See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/28 
 Closed 
 
-#RSIT WG next meetings and outreach
-Aim and Objectives of the RSIT WG
-Develop Reference Document (Classifications, incident types or examples, and definition) using eCSIRT.net as a starting point.
-Define and develop an Update and Versioning Mechanism
-Host reference document
-Organise regular physical meetings with the stakeholders
-In the 2nd phase broader working group with non-European teams (FIRST) to achieve global consensus on incident reference taxonomy
+# RSIT WG next meetings and outreach
+## Aim and Objectives of the RSIT WG
+- [x] Develop Reference Document (Classifications, incident types or examples, and definition) using eCSIRT.net as a starting point.
+- [x] Define and develop an Update and Versioning Mechanism
+- [x] Host reference document
+- [x] Organise regular physical meetings with the stakeholders
+- [ ] In the 2nd phase broader working group with non-European teams (FIRST) to achieve global consensus on incident reference taxonomy
 
-##Actions
-WG will discuss this in Luxembourg
+## Actions
+WG will discuss last point in Luxembourg
 
-#Next steps
+# Next steps
 
 ENISA to
 
