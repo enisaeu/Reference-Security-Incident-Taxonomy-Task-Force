@@ -47,7 +47,7 @@ Discuss proposed  “Availability/Misconfiguration” https://github.com/enisaeu
 See thread at  https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/32 
 to be continued 
 
-### action:
+### Action:
 https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/32
 
 ## Finalize Acknowledgement of Jimmy Arvidsson, Don Stikvoort and eCSIRT.net on the Github https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/26 
