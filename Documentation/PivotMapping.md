@@ -2,5 +2,8 @@
 
 The taxonomy is used for pivot mapping with another taxonomy used by another/ team external entity for collecting /publishing incident data.
 
-Below the mapping to other taxonomies:
+## Mapping to other taxonomies
+
+## Guidelines to map agains the RSIT taxonomy 
+
 
