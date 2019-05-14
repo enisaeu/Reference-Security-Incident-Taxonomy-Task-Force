@@ -29,6 +29,8 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 | Intrusions | Privileged Account Compromise | Compromise of a system where the attacker gained administrative privileges. |
 | Intrusions | Unprivileged Account Compromise | Compromise of a system using an unprivileged (user/service) account. |
 | Intrusions | Application Compromise | Compromise of an application by exploiting (un)known software vulnerabilities, e.g. SQL injection. |
+| Intrusions | Unauthorised Command | The possibly infected device sent unauthorised commands to a remote device with malicious intent. A source for an IoC of this type could be a honeypot or a command log. |
+| Intrusions | Unauthorised Login | A possibly infected device logged in to a remote device without authorization. A source for an IoC of this type could be a honeypot. |
 | Intrusions | Burglary | Physical intrusion, e.g. into corporate building or data center. |
 | Availability | Denial of Service | Denial of Service attack, e.g. sending specially crafted requests to a web application which causes the application to crash or slow down. |
 | Availability | Distributed Denial of Service | Distributed Denial of Service attack, e.g. SYN-Flood or UDP-based reflection/amplification attacks. |

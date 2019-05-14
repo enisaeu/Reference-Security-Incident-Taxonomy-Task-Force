@@ -103,6 +103,16 @@
           "value": "application-compromise"
         },
         {
+          "description": "The possibly infected device sent unauthorised commands to a remote device with malicious intent. A source for an IoC of this type could be a honeypot or a command log.",
+          "expanded": "Unauthorised Command",
+          "value": "unauthorised-command"
+        },
+        {
+          "description": "A possibly infected device logged in to a remote device without authorization. A source for an IoC of this type could be a honeypot.",
+          "expanded": "Unauthorised Login",
+          "value": "unauthorised-login"
+        },
+        {
           "description": "Physical intrusion, e.g. into corporate building or data center.",
           "expanded": "Burglary",
           "value": "burglary"
