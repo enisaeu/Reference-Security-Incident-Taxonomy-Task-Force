@@ -13,10 +13,10 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 
 | CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
 |---------------------------------------------------------      |------------------------------------   |------------------------|
-| Abusive Content | Spam | Or 'Unsolicited Bulk Email', this means that the recipient has not granted verifiable permission for the message to be sent and that the message is sent as part of a larger collection of messages, all having a functionally comparable content. |
+| Abusive Content | Spam | Or 'Unsolicited Bulk Email', this means that the recipient has not granted verifiable permission for the message to be sent and that the message is sent as part of a larger collection of messages, all having a functionally comparable content. This IOC refers to resources, which make up a SPAM infrastructure, be it a harvesters like address verification, URLs in spam e-mails etc. |
 | Abusive Content | Harmful Speech | Discreditation or discrimination of somebody, e.g. cyber stalking, racism or threats against one or more individuals. |
 | Abusive Content | Child Porn/Sexual/Violent Content | Child pornography, glorification of violence, etc. |
-| Malicious Code | Infected System | System infected with malware, e.g. PC, smartphone or server infected with a rootkit. |
+| Malicious Code | Infected System | System infected with malware, e.g. PC, smartphone or server infected with a rootkit. Most often this refers to a connection to a sinkholed C2 server |
 | Malicious Code | C2 Server | Command-and-control server contacted by malware on infected systems. |
 | Malicious Code | Malware Distribution | URI used for malware distribution, e.g. a download URL included in fake invoice malware spam. |
 | Malicious Code | Malware Configuration | URI hosting a malware configuration file, e.g. webinjects for a banking trojan. |
@@ -24,7 +24,7 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 | Information Gathering | Sniffing | Observing and recording of network traffic (wiretapping). |
 | Information Gathering | Social Engineering | Gathering information from a human being in a non-technical way (e.g. lies, tricks, bribes, or threats). |
 | Intrusion Attempts | Exploitation of known Vulnerabilities | An attempt to compromise a system or to disrupt any service by exploiting vulnerabilities with a standardised identifier such as CVE name (e.g. buffer overflow, backdoor, cross site scripting, etc.) |
-| Intrusion Attempts | Login attempts | Multiple login attempts (Guessing / cracking of passwords, brute force). |
+| Intrusion Attempts | Login attempts | Multiple login attempts (Guessing / cracking of passwords, brute force). This IOC refers to a resource, which has been observed to perform brute-force attacks over a given application protocol. |
 | Intrusion Attempts | New attack signature | An attack using an unknown exploit. |
 | Intrusions | Privileged Account Compromise | Compromise of a system where the attacker gained administrative privileges. |
 | Intrusions | Unprivileged Account Compromise | Compromise of a system using an unprivileged (user/service) account. |
@@ -41,7 +41,7 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 | Fraud | Unauthorized use of resources | Using resources for unauthorized purposes including profit-making ventures, e.g. the use of e-mail to participate in illegal profit chain letters or pyramid schemes. |
 | Fraud | Copyright | Offering or Installing copies of unlicensed commercial software or other copyright protected materials (Warez). |
 | Fraud | Masquerade | Type of attack in which one entity illegitimately impersonates the identity of another in order to benefit from it. |
-| Fraud | Phishing | Masquerading as another entity in order to persuade the user to reveal private credentials. |
+| Fraud | Phishing | Masquerading as another entity in order to persuade the user to reveal private credentials. This IOC most often refers to a URL, which is used to phish user credentials. |
 | Vulnerable | Weak crypto | Publicly accessible services offering weak crypto, e.g. web servers susceptible to POODLE/FREAK attacks. |
 | Vulnerable | DDoS amplifier | Publicly accessible services that can be abused for conducting DDoS reflection/amplification attacks, e.g. DNS open-resolvers or NTP servers with monlist enabled. |
 | Vulnerable | Potentially unwanted accessible services | Potentially unwanted publicly accessible services, e.g. Telnet, RDP or VNC. |
