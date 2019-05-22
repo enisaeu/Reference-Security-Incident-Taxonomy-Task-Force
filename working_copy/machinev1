@@ -13,8 +13,8 @@
           "value": "harmful-speech"
         },
         {
-          "description": "Child pornography, glorification of violence, etc.",
-          "expanded": "Child Porn/Sexual/Violent Content",
+          "description": "Child Sexual Exploitation (CSE), Sexual content, glorification of violence, etc.",
+          "expanded": "(Child) Sexual Exploitation/Sexual/Violent Content",
           "value": "violence"
         }
       ],

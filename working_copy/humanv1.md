@@ -15,7 +15,7 @@ Generated from [machine readable version](machinev1). Please do not edit this fi
 |---------------------------------------------------------      |------------------------------------   |------------------------|
 | Abusive Content | Spam | Or 'Unsolicited Bulk Email', this means that the recipient has not granted verifiable permission for the message to be sent and that the message is sent as part of a larger collection of messages, all having a functionally comparable content. |
 | Abusive Content | Harmful Speech | Discreditation or discrimination of somebody, e.g. cyber stalking, racism or threats against one or more individuals. |
-| Abusive Content | Child Porn/Sexual/Violent Content | Child pornography, glorification of violence, etc. |
+| Abusive Content | (Child) Sexual Exploitation/Sexual/Violent Content | Child Sexual Exploitation (CSE), Sexual content, glorification of violence, etc. |
 | Malicious Code | Infected System | System infected with malware, e.g. PC, smartphone or server infected with a rootkit. |
 | Malicious Code | C2 Server | Command-and-control server contacted by malware on infected systems. |
 | Malicious Code | Malware Distribution | URI used for malware distribution, e.g. a download URL included in fake invoice malware spam. |
