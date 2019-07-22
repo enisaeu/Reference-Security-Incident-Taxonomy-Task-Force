@@ -21,3 +21,7 @@ list here all tools that make use of the taxonomy
   * [Incident statistics per Month and Quarter of CERT-LV](https://cert.lv/lv/incidenti/statistika)
   * [CERT.at yearly report](https://cert.at/downloads/reports/jahresbericht-2017.html) 2017 (german only)
   
+##  Taxonomy translated in the local language
+  * team name - language - link to translation, if public
+  *  
+  
