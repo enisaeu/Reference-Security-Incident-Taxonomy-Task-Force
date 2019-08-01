@@ -13,8 +13,8 @@
           "value": "harmful-speech"
         },
         {
-          "description": "Child pornography, glorification of violence, etc.",
-          "expanded": "Child Porn/Sexual/Violent Content",
+          "description": "Child Sexual Exploitation (CSE), Sexual content, glorification of violence, etc.",
+          "expanded": "(Child) Sexual Exploitation/Sexual/Violent Content",
           "value": "violence"
         }
       ],
@@ -223,9 +223,14 @@
     {
       "entry": [
         {
-          "description": "All incidents which don't fit in one of the given categories should be put into this class.",
-          "expanded": "Other",
+          "description": "All incidents which don't fit in one of the given categories should be put into this class or the incident is not classified.",
+          "expanded": "Other unclassified",
           "value": "other"
+        },
+        {
+          "description": "The classification of the incident is unknown/undetermined.",
+          "expanded": "Undetermined",
+          "value": "undetermined"
         }
       ],
       "predicate": "other"
