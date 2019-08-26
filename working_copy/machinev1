@@ -103,6 +103,11 @@
           "value": "application-compromise"
         },
         {
+          "description": "Compromise of a system, e.g. unauthorised logins or commands. This includes compromising attempts on honeypot systems.",
+          "expanded": "System Compromise",
+          "value": "system-compromise"
+        },
+        {
           "description": "Physical intrusion, e.g. into corporate building or data-centre.",
           "expanded": "Burglary",
           "value": "burglary"
