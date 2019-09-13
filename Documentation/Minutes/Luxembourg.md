@@ -44,17 +44,17 @@ actions: proposal and examples on multiple values to be shared with the mailing 
 to be discussed on ML
   
 ## Open topics for Cyprus (including action post LUX)
-- [ ]Obsolete values - How do we deal with obsolete value
-- [ ]Pivot mapping - example
-- [ ]review  "Remove malware-dga-domain as agreed in Vilnius meeting" #32 https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/32 
-- [ ]review  chg: [machine-tag] version MUST be an unsigned integer  and  Spit versioning into to fields #52 
-- [ ]review Some descriptions #47
-- [ ]review other/other -> other/unclassified #55
-- [ ]review  Add system-compromise #59 - 
-- [ ]This branch has conflicts that must be resolved
-- [ ]add (data) leak under information content security #61 
-- [ ]taxonomy usage 
-- [ ]translated versions
+- [ ] Obsolete values - How do we deal with obsolete value
+- [ ] Pivot mapping - example
+- [ ] review  "Remove malware-dga-domain as agreed in Vilnius meeting" #32 https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/32 
+- [ ] review  chg: [machine-tag] version MUST be an unsigned integer  and  Spit versioning into to fields #52 
+- [ ] review Some descriptions #47
+- [ ] review other/other -> other/unclassified #55
+- [ ] review  Add system-compromise #59 - 
+- [ ] This branch has conflicts that must be resolved
+- [ ]a dd (data) leak under information content security #61 
+- [ ] taxonomy usage 
+- [ ] translated versions
 
 # Next steps
 
