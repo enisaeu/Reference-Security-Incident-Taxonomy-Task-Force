@@ -2,7 +2,8 @@
 
 The taxonomy is used for pivot mapping with another taxonomy used by another/ team external entity for collecting /publishing incident data.
 
-## Mapping to other taxonomies
+## Mapping with other taxonomies
+MISP (https://github.com/MISP/misp-taxonomies/blob/master/mapping/mapping.json)
 
 ## Guidelines to map reports findings against the RSIT taxonomy 
 

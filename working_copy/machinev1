@@ -8,13 +8,13 @@
           "value": "spam"
         },
         {
-          "description": "Discreditation or discrimination of somebody, e.g. cyber stalking, racism or threats against one or more individuals.",
+          "description": "Discretization or discrimination of somebody, e.g. cyber stalking, racism or threats against one or more individuals.",
           "expanded": "Harmful Speech",
           "value": "harmful-speech"
         },
         {
-          "description": "Child pornography, glorification of violence, etc.",
-          "expanded": "Child Porn/Sexual/Violent Content",
+          "description": "Child Sexual Exploitation (CSE), Sexual content, glorification of violence, etc.",
+          "expanded": "(Child) Sexual Exploitation/Sexual/Violent Content",
           "value": "violence"
         }
       ],
@@ -38,7 +38,7 @@
           "value": "malware-distribution"
         },
         {
-          "description": "URI hosting a malware configuration file, e.g. webinjects for a banking trojan.",
+          "description": "URI hosting a malware configuration file, e.g. web-injects for a banking trojan.",
           "expanded": "Malware Configuration",
           "value": "malware-configuration"
         }
@@ -98,12 +98,12 @@
           "value": "unprivileged-account-compromise"
         },
         {
-          "description": "Compromise of an application by exploiting (un)known software vulnerabilities, e.g. SQL injection.",
+          "description": "Compromise of an application by exploiting (un-)known software vulnerabilities, e.g. SQL injection.",
           "expanded": "Application Compromise",
           "value": "application-compromise"
         },
         {
-          "description": "Physical intrusion, e.g. into corporate building or data center.",
+          "description": "Physical intrusion, e.g. into corporate building or data-centre.",
           "expanded": "Burglary",
           "value": "burglary"
         }
@@ -143,7 +143,7 @@
     {
       "entry": [
         {
-          "description": "Unauthorized access to information, e.g. by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents.",
+          "description": "Unauthorised access to information, e.g. by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents.",
           "expanded": "Unauthorised access to information",
           "value": "unauthorised-information-access"
         },
@@ -218,9 +218,14 @@
     {
       "entry": [
         {
-          "description": "All incidents which don't fit in one of the given categories should be put into this class.",
-          "expanded": "Other",
+          "description": "All incidents which don't fit in one of the given categories should be put into this class or the incident is not classified.",
+          "expanded": "Other unclassified",
           "value": "other"
+        },
+        {
+          "description": "The classification of the incident is unknown/undetermined.",
+          "expanded": "Undetermined",
+          "value": "undetermined"
         }
       ],
       "predicate": "other"
