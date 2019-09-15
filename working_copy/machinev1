@@ -163,9 +163,9 @@
     {
       "entry": [
         {
-          "description": "Using resources for unauthorized purposes including profit-making ventures, e.g. the use of e-mail to participate in illegal profit chain letters or pyramid schemes.",
-          "expanded": "Unauthorized use of resources",
-          "value": "unauthorized-use-of-resources"
+          "description": "Using resources for unauthorised purposes including profit-making ventures, e.g. the use of e-mail to participate in illegal profit chain letters or pyramid schemes.",
+          "expanded": "Unauthorised use of resources",
+          "value": "unauthorised-use-of-resources"
         },
         {
           "description": "Offering or Installing copies of unlicensed commercial software or other copyright protected materials (Warez).",
@@ -263,7 +263,7 @@
       "value": "intrusion-attempts"
     },
     {
-      "description": "A successful compromise of a system or application (service). This can have been caused remotely by a known or new vulnerability, but also by an unauthorized local access. Also includes being part of a botnet.",
+      "description": "A successful compromise of a system or application (service). This can have been caused remotely by a known or new vulnerability, but also by an unauthorised local access. Also includes being part of a botnet.",
       "expanded": "Intrusions",
       "value": "intrusions"
     },
