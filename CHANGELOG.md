@@ -1,11 +1,20 @@
 # Changelog
 
-## Version 1.02
+## Version 1.2  (released 2019/09/15)
 
   * changed everything (hopefully) from american english to british 
   * changed versioning mechanism to an integer (version field is now 1002)
-  * machinetag2human.py: formatting changes
-  * CSE is the proper word
+  * machinetag2human.py: formatting changes in the header
+  * "CSE" is the proper word
+  * other/other -> other/uncategorized. 
+  * clarified some descriptions in the description fields
+  
+
+## Version 1.1
+
+  * CSE 
+  * other -> split to other/unclassified and other/other uncategorized
+  * typo fixes 
 
 ## Version 1
 
