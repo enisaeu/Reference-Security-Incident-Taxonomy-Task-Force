@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.02
+
+  * changed everything (hopefully) from american english to british 
+  * changed versioning mechanism to an integer (version field is now 1002)
+  * machinetag2human.py: formatting changes
+  * CSE is the proper word
+
 ## Version 1
 
   * added a machinetag readable version from the MISP Taxonomy repositories
