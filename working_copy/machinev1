@@ -223,12 +223,12 @@
     {
       "entry": [
         {
-          "description": "All incidents which don't fit in one of the given categories should be put into this class or the incident is not classified.",
-          "expanded": "Other unclassified",
+          "description": "All incidents which don't fit in one of the given categories should be put into this class or the incident is not categorised.",
+          "expanded": "Uncategorised",
           "value": "other"
         },
         {
-          "description": "The classification of the incident is unknown/undetermined.",
+          "description": "The categorisation of the incident is unknown/undetermined.",
           "expanded": "Undetermined",
           "value": "undetermined"
         }
