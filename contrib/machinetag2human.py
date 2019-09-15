@@ -77,6 +77,7 @@ See the [machine readable version](machinev1) as well. It should have an identic
 Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
 
 Version: %s
+
 Generated from [machine readable version](machinev1). Please **DO NOT** edit this file directly in github, rather use the machinev1 file.
 
 
@@ -97,9 +98,9 @@ def print_entries(data):
 if __name__ == '__main__':
     try:
         with open(infile) as f:
-                data = json.load(f)
-                print_header(data)
-                print_entries(data)
+            data = json.load(f)
+            print_header(data)
+            print_entries(data)
     except Exception as ex:
         print("could not open or parse json input file. Reason: %s" %str(ex))
         sys.exit(-2)
