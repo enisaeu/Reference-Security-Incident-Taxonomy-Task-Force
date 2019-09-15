@@ -3,12 +3,12 @@
     {
       "entry": [
         {
-          "description": "Or 'Unsolicited Bulk Email', this means that the recipient has not granted verifiable permission for the message to be sent and that the message is sent as part of a larger collection of messages, all having a functionally comparable content.",
+          "description": "Or 'Unsolicited Bulk Email', this means that the recipient has not granted verifiable permission for the message to be sent and that the message is sent as part of a larger collection of messages, all having a functionally comparable content. This IOC refers to resources, which make up a SPAM infrastructure, be it a harvesters like address verification, URLs in spam e-mails etc.",
           "expanded": "Spam",
           "value": "spam"
         },
         {
-          "description": "Discreditation or discrimination of somebody, e.g. cyber stalking, racism or threats against one or more individuals.",
+          "description": "Discretization or discrimination of somebody, e.g. cyber stalking, racism or threats against one or more individuals.",
           "expanded": "Harmful Speech",
           "value": "harmful-speech"
         },
@@ -23,7 +23,7 @@
     {
       "entry": [
         {
-          "description": "System infected with malware, e.g. PC, smartphone or server infected with a rootkit.",
+          "description": "System infected with malware, e.g. PC, smartphone or server infected with a rootkit. Most often this refers to a connection to a sinkholed C2 server",
           "expanded": "Infected System",
           "value": "infected-system"
         },
@@ -38,7 +38,7 @@
           "value": "malware-distribution"
         },
         {
-          "description": "URI hosting a malware configuration file, e.g. webinjects for a banking trojan.",
+          "description": "URI hosting a malware configuration file, e.g. web-injects for a banking trojan.",
           "expanded": "Malware Configuration",
           "value": "malware-configuration"
         }
@@ -73,7 +73,7 @@
           "value": "ids-alert"
         },
         {
-          "description": "Multiple login attempts (Guessing / cracking of passwords, brute force).",
+          "description": "Multiple login attempts (Guessing / cracking of passwords, brute force). This IOC refers to a resource, which has been observed to perform brute-force attacks over a given application protocol.",
           "expanded": "Login attempts",
           "value": "brute-force"
         },
@@ -98,12 +98,12 @@
           "value": "unprivileged-account-compromise"
         },
         {
-          "description": "Compromise of an application by exploiting (un)known software vulnerabilities, e.g. SQL injection.",
+          "description": "Compromise of an application by exploiting (un-)known software vulnerabilities, e.g. SQL injection.",
           "expanded": "Application Compromise",
           "value": "application-compromise"
         },
         {
-          "description": "Physical intrusion, e.g. into corporate building or data center.",
+          "description": "Physical intrusion, e.g. into corporate building or data-centre.",
           "expanded": "Burglary",
           "value": "burglary"
         }
@@ -143,7 +143,7 @@
     {
       "entry": [
         {
-          "description": "Unauthorized access to information, e.g. by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents.",
+          "description": "Unauthorised access to information, e.g. by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents.",
           "expanded": "Unauthorised access to information",
           "value": "unauthorised-information-access"
         },
@@ -178,7 +178,7 @@
           "value": "masquerade"
         },
         {
-          "description": "Masquerading as another entity in order to persuade the user to reveal private credentials.",
+          "description": "Masquerading as another entity in order to persuade the user to reveal private credentials. This IOC most often refers to a URL, which is used to phish user credentials.",
           "expanded": "Phishing",
           "value": "phishing"
         }
@@ -206,12 +206,7 @@
           "description": "Publicly accessible services potentially disclosing sensitive information, e.g. SNMP or Redis.",
           "expanded": "Information disclosure",
           "value": "information-disclosure"
-        }
-      ],
-      "predicate": "vulnerable"
-    },
-    {
-      "entry": [
+        },
         {
           "description": "A system which is vulnerable to certain attacks. Example: misconfigured client proxy settings (example: WPAD), outdated operating system version, etc.",
           "expanded": "Vulnerable system",
@@ -223,12 +218,12 @@
     {
       "entry": [
         {
-          "description": "All incidents which don't fit in one of the given categories should be put into this class or the incident is not classified.",
-          "expanded": "Other unclassified",
+          "description": "All incidents which don't fit in one of the given categories should be put into this class or the incident is not categorised.",
+          "expanded": "Uncategorised",
           "value": "other"
         },
         {
-          "description": "The classification of the incident is unknown/undetermined.",
+          "description": "The categorisation of the incident is unknown/undetermined.",
           "expanded": "Undetermined",
           "value": "undetermined"
         }
