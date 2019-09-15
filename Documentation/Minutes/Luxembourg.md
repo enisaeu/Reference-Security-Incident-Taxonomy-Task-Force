@@ -1,26 +1,16 @@
 # Reference Taxonomy Working Group Minutes
 
-Meeting: Reference taxonomy meeting Location: Luxembourg Date: 22/05/2018
+Meeting: Reference taxonomy meeting Location: Cyprus Date: 15/09/19
 ## Meeting overview
-- Actions from last meeting
-- Pull changes
+- status update 
 - RSIT @ FIRST 
 	- Presentation
 	- BoF
-Next meeting in Cyprus
+- Actions from last meeting
 
 # Review of the actions:
 ## Actions from last meeting
-ENISA to
-- [x] Prepare minutes
-- [x] Prepare for LUX meeting
-- [x] Create a Pivot Mapping section
-- [ ] Coordinate request for update on http://www.ecsirt.net/
-- [x] Update GitHub
- 
-All WG
-- [x] Pull changes by individual line
-- [x] Prepare accordingly for Tallinn meeting
+
 
 # Actions for this meeting
 
@@ -61,8 +51,6 @@ to be discussed on ML
 ENISA to
 
 - [ ] Prepare minutes
-- [ ] Prepare for cyprus meeting
-- [ ] Present at FIRST and organize BOF
 - [ ] Coordinate request for update on http://www.ecsirt.net/
 - [ ] Update GitHub
 
