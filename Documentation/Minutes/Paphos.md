@@ -29,7 +29,8 @@ Multiple value weight 1- 10
 Weight and subweight
 Solved since it is at the discretion of the team.
 RSIT can give recommendation and good practices
-# actions: proposal and examples on multiple values to be shared with the mailing list and be ready fro Cyprus.
+
+### actions: proposal and examples on multiple values to be shared with the mailing list and be ready fro Cyprus.
 
 ## add other/unknown:
 - [x] Merge pull request #46 from sebix/other-unknown
