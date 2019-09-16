@@ -1,8 +1,9 @@
 # Reference Taxonomy Working Group Minutes
 
-Meeting: Reference taxonomy meeting Location: Luxembourg Date: 22/05/2018
+Meeting: Reference taxonomy meeting Location: Paphos Date: 16/09/2019
+
 ## Meeting overview
-- RSIT @ FIRST 
+- RSIT @ FIRST debrief
 - Roundtable of participants update 
 - Actions from last meeting
 - Pull changes
