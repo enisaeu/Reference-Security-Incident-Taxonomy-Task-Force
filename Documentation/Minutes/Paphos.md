@@ -77,9 +77,9 @@ For example add script to fetch last version of taxonomy and check the possiblit
 
 # Actions for next meeting:
  
-- review  "Remove malware-dga-domain as agreed in Vilnius meeting" #32 - discuss with CERT-BUND
 - (data) leak under information content security #61 - further work on the definition is needed
 - system-compromise #59 - further work on the definition is needed
+- malware-dga-domain #32 - finalize with CERT-BUND
 - contact RT-IR and OTRS to see if it is possible to add the taxonomy natively for the new teams 
 - develop guidelines to help adding the RSIT in existing environments. 
 - proposal and examples on multiple values to be shared with the mailing list  
