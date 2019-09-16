@@ -55,14 +55,15 @@ follow European Commission's English Style Guide.
 - review  "Remove malware-dga-domain as agreed in Vilnius meeting" #32 - discuss with CERT-BUND
 - (data) leak under information content security #61 - further work on the definition is needed
 - system-compromise #59 - further work on the definition is needed
+- further work to integrate field in the machine readable version
 
 # Discussion in Cyprus
 
 ## incentive for adoptions and challenges that teams face during the transitions
 For example add script to fetch last version of taxonomy and check the possiblitity to add custom fields to ease the adoptio
 
-# action: contact RT-IR and OTRS to see if it is possible to add the taxonomy natively for the new teams 
-# action: develop guidelines to help adding the RSIT in existing environments. 
+### action: contact RT-IR and OTRS to see if it is possible to add the taxonomy natively for the new teams 
+### action: develop guidelines to help adding the RSIT in existing environments. 
 
 
 ## Changelog Version 1.2 (released 2019/09/15)
@@ -83,6 +84,7 @@ For example add script to fetch last version of taxonomy and check the possiblit
 - develop guidelines to help adding the RSIT in existing environments. 
 - proposal and examples on multiple values to be shared with the mailing list  
 - proposal on how to deal with obsolete value to be shared with the mailing list 
+- further work to integrate fields for the translated version in the machine readable version
 
 
 
