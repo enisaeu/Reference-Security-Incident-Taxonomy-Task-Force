@@ -19,6 +19,7 @@ list here all tools that make use of the taxonomy
   * [CERT-BUND](https://www.bsi.bund.de/EN/Topics/IT-Crisis-Management/CERT-Bund/cert-bund_node.html)
   * [CERT-SI](https://www.cert.si/)
   * [INCIBE-CERT](https://www.incibe-cert.es)
+  * [SWITCH-CERT](https://www.switch.ch/security/)
 
 
 ##  Statistics based on the RSIT WG taxonomy
