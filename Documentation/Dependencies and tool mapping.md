@@ -3,7 +3,7 @@ list here all tools that make use of the taxonomy
 
 ## Incident Handling Automation
 
-  * [IntelMQ](https://intelmq.org)
+  * [IntelMQ](https://intelmq.org)  
 
 ## Threat Intelligence Platform
 
@@ -20,6 +20,8 @@ list here all tools that make use of the taxonomy
   * [CERT-SI](https://www.cert.si/)
   * [INCIBE-CERT](https://www.incibe-cert.es)
   * [SWITCH-CERT](https://www.switch.ch/security/)
+  *  ..and implictly most [users of IntelMQ](https://github.com/certtools/intelmq/network/members)
+
 
 
 ##  Statistics based on the RSIT WG taxonomy
