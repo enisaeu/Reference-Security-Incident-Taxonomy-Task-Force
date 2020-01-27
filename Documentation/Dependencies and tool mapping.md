@@ -20,6 +20,7 @@ list here all tools that make use of the taxonomy
   * [CERT-SI](https://www.cert.si/)
   * [INCIBE-CERT](https://www.incibe-cert.es)
   * [SWITCH-CERT](https://www.switch.ch/security/)
+  * [LITNET-CERT](https://cert.litnet.lt/)
   *  ..and implictly most [users of IntelMQ](https://github.com/certtools/intelmq/network/members)
 
 
@@ -31,4 +32,5 @@ list here all tools that make use of the taxonomy
 ##  Taxonomy translated in the local language
   * language - team name - link to translation, if public
   * ES - INCIBE-CERT - [github](https://github.com/flosada/RSITaxonomy_ES/blob/master/humanv1.md) 
+  * [LITNET-CERT](https://cert.litnet.lt/incidentu-taksonomija/)
   
