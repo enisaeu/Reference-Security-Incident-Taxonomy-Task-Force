@@ -156,6 +156,11 @@
           "description": "Loss of data, e.g. caused by harddisk failure or physical theft.",
           "expanded": "Data Loss",
           "value": "data-loss"
+        },
+        {
+          "description": "Leaked confidential information like credentials or personal data.",
+          "expanded": "Leak of confidential information",
+          "value": "data-leak"
         }
       ],
       "predicate": "information-content-security"
