@@ -39,6 +39,7 @@ Generated from [machine readable version](machinev1). Please **DO NOT** edit thi
 | Information Content Security | Unauthorised access to information | Unauthorised access to information, e.g. by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents. |
 | Information Content Security | Unauthorised modification of information | Unauthorised modification of information, e.g. by an attacker abusing stolen login credentials for a system or application or a ransomware encrypting data. |
 | Information Content Security | Data Loss | Loss of data, e.g. caused by harddisk failure or physical theft. |
+| Information Content Security | Leak of confidential information | Leaked confidential information like credentials or personal data. |
 | Fraud | Unauthorised use of resources | Using resources for unauthorised purposes including profit-making ventures, e.g. the use of e-mail to participate in illegal profit chain letters or pyramid schemes. |
 | Fraud | Copyright | Offering or Installing copies of unlicensed commercial software or other copyright protected materials (Warez). |
 | Fraud | Masquerade | Type of attack in which one entity illegitimately impersonates the identity of another in order to benefit from it. |
