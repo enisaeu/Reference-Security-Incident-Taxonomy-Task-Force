@@ -25,11 +25,16 @@ In case of enquiries regarding RSIT and OTRS, please contact point for OTRS Jens
 Due for historical reasons
 ## Question about format
 We do use MISP machine-readable format
-*Action point - script - idea CESNET .CZ draft mode
+
+*Action point* - script - idea CESNET .CZ draft mode
+
 ## Problem of the transition from old taxonomy to new
 *action point* - CERT-AT + ENISA + CESNET .CZ +PT  to provide proposal of guideline to add RSIT to get started - how to deal with obsolete and multiple values
+
 -> Machine readable translation
+
 *action point* - -INCIBE to check, possbile MISP with transition field
+
 Possible solutions:
 - One chance is British English for description and expanded names 
 - Machine value is ID in British English
