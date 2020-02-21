@@ -1,4 +1,9 @@
+# Reference Taxonomy Working Group Minutes
+
+Meeting: Reference taxonomy meeting Location: amlaga 28/01/2020
+
 # Round of intro
+
 ## Attendees coverage  
 Already part of the RSIT WG and using the taxonomy
 - CERT- PT
