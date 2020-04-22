@@ -33,7 +33,7 @@
           "value": "c2-server"
         },
         {
-          "description": "URI used for malware distribution, e.g. a download URL included in fake invoice malware spam.",
+          "description": "URI used for malware distribution, e.g. a download URL included in fake invoice malware spam or exploit-kits (on websites).",
           "expanded": "Malware Distribution",
           "value": "malware-distribution"
         },
