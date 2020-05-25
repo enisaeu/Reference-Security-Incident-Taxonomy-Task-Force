@@ -12,7 +12,7 @@ Meeting: Reference taxonomy meeting Location: Tallinn Date: 23/01/2018
 # Review of the actions:
 ## Actions from last meeting
 
-ENISA to 
+ENISA to
 - [x] Prepare minutes
 - [x] Prepare for Tallinn meeting
 - [x] Change name from TF to WG
@@ -22,7 +22,7 @@ ENISA to
 
 CERT-Bund to
 - [x] Pull request deletion for Malware DGA Domain so we can delete from the current version ASAP.
-- [x] Create a new pull request for Malware DGA Domain so that WG can discuss it before Tallinn meeting.  
+- [x] Create a new pull request for Malware DGA Domain so that WG can discuss it before Tallinn meeting.
 
 All WG
 - [x] Pull changes by individual line
@@ -31,30 +31,30 @@ All WG
 # Actions for this meeting
 
 ALL WG to
-- [ ] Discuss proposed  “Availability/Misconfiguration”  https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/24     
+- [ ] Discuss proposed  “Availability/Misconfiguration”  https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/24
 - [ ] Finalize the DGA domain in Tallinn
-- [ ] Finalize Acknowledgement of Jimmy Arvidsson, Don Stikvoort and eCSIRT.net on the Github https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/26 
+- [ ] Finalize Acknowledgement of Jimmy Arvidsson, Don Stikvoort and eCSIRT.net on the GitHub https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/26
 - [ ] Formalize Vilnius Version with CC0
 
 # Review pulled changes
 
 ## Availability/Misconfiguration
-Discuss proposed  “Availability/Misconfiguration” https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/24/files    
-  
-    Approved– see thread there.
+Discuss proposed  “Availability/Misconfiguration” https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/24/files
+
+Approved – see thread there.
 
 ## DGA domain
-See thread at  https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/32 
-to be continued 
+See thread at  https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/32
+to be continued
 
 ### Action:
 https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/32
 
-## Finalize Acknowledgement of Jimmy Arvidsson, Don Stikvoort and eCSIRT.net on the Github https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/26 
-    Approved– see thread there.
+## Finalize Acknowledgement of Jimmy Arvidsson, Don Stikvoort and eCSIRT.net on the Github https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/pull/26
+Approved– see thread there.
 
 ## Formalize Vilnius Version with CC0
-decided for string and created license file
+Decided for string and created license file
 
 ## CERT.at Version numbering
 
@@ -63,30 +63,30 @@ ALL decided for string and created license file
 # Additional items discussed
 
 ## Multiple value management
-how to use and which cases make sense(i.e. Multiuple tags in MSIP and IntelMQ)
- See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/34
+How to use and which cases make sense (i.e. Multiple tags in MSIP and IntelMQ)
+See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/34
 
 ### Actions
-CERT.at	GOVERCERTLU and CESNET will submit ideas for multiple values management on the mailing list by 29/03
+CERT.at	GOVERCERT-LU and CESNET will submit ideas for multiple values management on the mailing list by 29/03
 Discussion on the mailing and proposal for next meeting. Add document.
 
-## http://www.ecsirt.net/ reference 
-ask owner to add pointer to RSIT WG 
+## http://www.ecsirt.net/ reference
+Ask owner to add pointer to RSIT WG
 
 ### Actions
-ENISA Will talk to owner 
+ENISA Will talk to owner
 
-## How to classify SEO spam injections/Search Engine Ranking Hacks? #31 
+## How to classify SEO spam injections/Search Engine Ranking Hacks? #31
 
- See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/31
+See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/31
 
 ### Actions
 WG to add guidance on how to classify multiple values and then count stats for multiple values. These will be topics of the first examples
 
 
-## Add a predicate to tag information if this is part of an exercise #28 
- See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/28 
-Closed 
+## Add a predicate to tag information if this is part of an exercise #28
+See thread at https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues/28
+Closed
 
 # RSIT WG next meetings and outreach
 ## Aim and Objectives of the RSIT WG
@@ -109,19 +109,17 @@ ENISA to
 - [ ] Coordinate request for update on http://www.ecsirt.net/
 - [ ] Update GitHub
 
-CERT.at	GOVERCERTLU and CESNET to
+CERT.at	GOVERCERT-LU and CESNET to
 - [ ] submit proposal for multiple values management on the mailing list by 29/03
 
 CESNET CERT-BUND and CERT.at to
-- [ ] submit ideas for characterizatioon of DGA by 29/03
+- [ ] submit ideas for characterization of DGA by 29/03
 
 ALL WG to
-- [ ] submit input on the ML and GitHub at least one month before next physical meeting to allow discussion 
-- [ ] Discuss the open issues and pull requests https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues?q=is%3Aopen  on the mailing and submit input at least one month before the next meeting 
+- [ ] submit input on the ML and GitHub at least one month before next physical meeting to allow discussion
+- [ ] Discuss the open issues and pull requests https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/issues?q=is%3Aopen  on the mailing and submit input at least one month before the next meeting
 - [ ] Pull changes by individual line
 - [ ] Prepare accordingly for LUX meeting
-- [ ] Complement the use cases with additional info 
-- [ ] Add link to the Statistics based on the RSIT WG taxonomy in https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Dependencies%20and%20tool%20mapping.md 
+- [ ] Complement the use cases with additional info
+- [ ] Add link to the Statistics based on the RSIT WG taxonomy in https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Dependencies%20and%20tool%20mapping.md
 - [ ] Refer RSIT in the annual report
-
-
