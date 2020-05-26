@@ -148,7 +148,7 @@
           "value": "unauthorised-information-access"
         },
         {
-          "description": "Unauthorised modification of information, e.g. by an attacker abusing stolen login credentials for a system or application or a ransomware encrypting data.",
+          "description": "Unauthorised modification of information, e.g. by an attacker abusing stolen login credentials for a system or application or a ransomware encrypting data. Also includes defacements.",
           "expanded": "Unauthorised modification of information",
           "value": "unauthorised-information-modification"
         },
