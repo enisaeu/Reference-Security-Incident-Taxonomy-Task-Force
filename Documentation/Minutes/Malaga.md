@@ -7,7 +7,7 @@ Meeting: Reference taxonomy meeting Location: amlaga 28/01/2020
 ## Attendees coverage  
 Already part of the RSIT WG and using the taxonomy
 - CERT- PT
-- Portugese CSIRTs Network
+- Portuguese CSIRTs Network
 - INCIBE
 - SWITCH
 - LTINET
@@ -17,7 +17,7 @@ Already part of the RSIT WG and using the taxonomy
 
 ## Available translated version taxonomy
 - lithuanian 
-- portugese   
+- portuguese   
 - german
 
 # Other discussion points 
