@@ -1,6 +1,6 @@
 # Reference Taxonomy Working Group Minutes
 
-Meeting: Reference taxonomy meeting Location: Cyprus Date: 15/09/19
+Meeting: Reference taxonomy meeting Location: Luxembourg Date: 22/05/19
 ## Meeting overview
 - status update
 - RSIT @ FIRST
