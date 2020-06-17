@@ -8,4 +8,3 @@ Example usage:
 ```
 ./contrib/machinetag2human.py working_copy/machinev1 >| working_copy/humanv1.md
 ```
-
