@@ -75,7 +75,7 @@ No Answer  10/21 ( 48%)
 
 members agree more discussion is needed and also to clarify in what type on example and detail we need to cover 
 
-**Bucharest / Internet Action: all agree to clarify in what type of indents and events are covered by the RSIT and after finalize DGA** 
+**Bucharest / Internet Action: all agree to clarify in what type of incidents and events are covered by the RSIT and after finalize DGA** 
 
 ## Add system-compromise #59
 all agree to close 
