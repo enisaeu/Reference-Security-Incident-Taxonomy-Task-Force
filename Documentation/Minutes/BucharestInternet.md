@@ -5,6 +5,7 @@ Meeting: Reference taxonomy meeting Location: Bucharest/Internet 26/05/2020
 # Round of intro
 
 ## Attendees coverage and WG members status update
+- CERT.AT - usint RSIT
 - CIRCL - using RSIT , ask to be notified for newer versions
 - ESP DEF CERT - not yet using RSIT
 - Alef - not yet using RSIT
