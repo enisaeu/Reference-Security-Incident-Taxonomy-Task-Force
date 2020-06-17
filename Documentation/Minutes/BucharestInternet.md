@@ -76,7 +76,7 @@ No Answer  10/21 ( 48%)
 
 members agree more discussion is needed and also to clarify in what type on example and detail we need to cover 
 
-**Bucharest / Internet Action: all agree to clarify in what type of incidents and events are covered by the RSIT and after finalize DGA** 
+**Bucharest / Internet Action: all agree to add incident and event in the use cases and after this return on the decision on malware DGA** 
 
 ## Add system-compromise #59
 all agree to close 
@@ -85,7 +85,7 @@ all agree to close
 ## Transposition of RSIT, once finalised, into a formal Standard
 
 Proposal for transposition of RSIT into a formal Standard. 
-UK MOD email after the meeting:
+Possible standardisation would be as Informative Annex in  ISO/IEC 27035-3  "Information security incident management - Part 3: Guidelines for ICT incident response operations
 recommendation for the better fit for RSIT would be within the ISO/IEC Information security incident management series (ISO/IEC 27035), various parts of which are currently in Draft.
 offer to liason RSIT in https://www.iso.org/committee/45306.html ISO/IEC Expert Committee (JTC1 SC27 WG4) 
 The next SC27 WG4 meeting will happen before the next RSIT WG: I would need to know whether to raise the issue at such a meeting by mid-August 2020.
@@ -95,6 +95,6 @@ The next SC27 WG4 meeting will happen before the next RSIT WG: I would need to k
 # Actions for the next meeting:
 - All agree for the multiple values that 1st one is intent (time dependent) and the rest are the transport mechanisms. all agree to update the doc accordingly before next meeting
 - All agree to define a common way to count and then run again the exercise accordingly before next meeting 
-- All agree to clarify in what type of incidents and events are covered by the RSIT and after finalize DGA  before next meeting 
+- All agree to add incident and event in the use cases and after this return on the decision on malware DGA
 - All provide feedback regarding offer to liaison RSIT in https://www.iso.org/committee/45306.html ISO/IEC Expert Committee (JTC1 SC27 WG4) by 30/07
 
