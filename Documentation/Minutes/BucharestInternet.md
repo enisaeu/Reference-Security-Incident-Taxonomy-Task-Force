@@ -1,3 +1,20 @@
+# Reference Taxonomy Working Group Minutes
+
+Meeting: Reference taxonomy meeting Location: Bucharest/Internet 26/05/2020
+
+# Round of intro
+
+## Attendees coverage and WG members status update
+CIRCL - using RSIT , ask to be notified for newer versions
+ESP DEF CERT - not yet using RSIT
+Alef - not yet using RSIT
+Terna  -  kick off possible translations 
+Litnet -  - using RSIT and RSIT part of incident management framework
+fujitsu -  evangelizing RSIT in .jp teams
+THA-CERT - using RSITprobably there is a translation in french
+SWITCH - using RSIT
+GOVCERTLU - implementation phase of  RSIT
+Telia -  using first version of RSIT
 CERT_BUND - - using RSIT in IntelMQ
 RESTENA - using RSIT
 FCT|FCCN - implementation phase of  RSIT
@@ -78,3 +95,4 @@ All agree for the multiple values that 1st one is intent (time dependent) and th
 All agree to define a common way to count and then run again the exercise accordingly before next meeting 
 All agree to clarify in what type of indents and events are covered by the RSIT and after finalize DGA  before next meeting 
 All provide feedback regarding offer to liaison RSIT in https://www.iso.org/committee/45306.html ISO/IEC Expert Committee (JTC1 SC27 WG4) by 30/07
+
