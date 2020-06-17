@@ -94,6 +94,6 @@ The next SC27 WG4 meeting will happen before the next RSIT WG: I would need to k
 # Actions for the next meeting:
 - All agree for the multiple values that 1st one is intent (time dependent) and the rest are the transport mechanisms. all agree to update the doc accordingly before next meeting
 - All agree to define a common way to count and then run again the exercise accordingly before next meeting 
-- All agree to clarify in what type of indents and events are covered by the RSIT and after finalize DGA  before next meeting 
+- All agree to clarify in what type of incidents and events are covered by the RSIT and after finalize DGA  before next meeting 
 - All provide feedback regarding offer to liaison RSIT in https://www.iso.org/committee/45306.html ISO/IEC Expert Committee (JTC1 SC27 WG4) by 30/07
 
