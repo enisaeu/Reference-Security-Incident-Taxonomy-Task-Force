@@ -33,7 +33,7 @@
           "value": "c2-server"
         },
         {
-          "description": "URI used for malware distribution, e.g. a download URL included in fake invoice malware spam.",
+          "description": "URI used for malware distribution, e.g. a download URL included in fake invoice malware spam or exploit-kits (on websites).",
           "expanded": "Malware Distribution",
           "value": "malware-distribution"
         },
@@ -103,6 +103,11 @@
           "value": "application-compromise"
         },
         {
+          "description": "Compromise of a system, e.g. unauthorised logins or commands. This includes compromising attempts on honeypot systems.",
+          "expanded": "System Compromise",
+          "value": "system-compromise"
+        },
+        {
           "description": "Physical intrusion, e.g. into corporate building or data-centre.",
           "expanded": "Burglary",
           "value": "burglary"
@@ -148,7 +153,7 @@
           "value": "unauthorised-information-access"
         },
         {
-          "description": "Unauthorised modification of information, e.g. by an attacker abusing stolen login credentials for a system or application or a ransomware encrypting data.",
+          "description": "Unauthorised modification of information, e.g. by an attacker abusing stolen login credentials for a system or application or a ransomware encrypting data. Also includes defacements.",
           "expanded": "Unauthorised modification of information",
           "value": "unauthorised-information-modification"
         },
@@ -213,7 +218,7 @@
           "value": "information-disclosure"
         },
         {
-          "description": "A system which is vulnerable to certain attacks. Example: misconfigured client proxy settings (example: WPAD), outdated operating system version, etc.",
+          "description": "A system which is vulnerable to certain attacks. Example: misconfigured client proxy settings (example: WPAD), outdated operating system version, XSS vulnerabilities, etc.",
           "expanded": "Vulnerable system",
           "value": "vulnerable-system"
         }
