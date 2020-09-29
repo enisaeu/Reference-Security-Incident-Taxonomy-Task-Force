@@ -21,8 +21,10 @@ list here all tools that make use of the taxonomy
   * [INCIBE-CERT](https://www.incibe-cert.es)
   * [SWITCH-CERT](https://www.switch.ch/security/)
   * [LITNET-CERT](https://cert.litnet.lt/)
+  * [RESTENA CSIRT](https://www.restena.lu/csirt)
   * [GOVCERT.LU](https://www.govcert.lu/)
-  * ..and implicitly most [users of IntelMQ](https://github.com/certtools/intelmq/network/members)
+  *  ..and implictly most [users of IntelMQ](https://github.com/certtools/intelmq/network/members)
+
 
 
 
