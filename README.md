@@ -13,10 +13,16 @@ For more information visit the [ENISA working document](https://www.enisa.europa
 ## Contributing
 
 ### Contributing to the GitHub project
-You may suggest additions to the RSIT via GitHub's [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) mechanism. Any submitted pull requests will be discussed at the next TF-CSIRT event and merged, providing they achieve group consensus. See also the [Terms of Reference](Documentation/ToR.md).
+Please follow the below guidelines when contributing to the RSIT GitHub project:
+* Before making any contributions read the [Terms of Reference](Documentation/ToR.md) carefully.
+* Add any bug reports or requests by creating an [issue](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue).
+* Make direct changes to the repository by creating a [pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request). Any submitted pull requests will be discussed at the next TF-CSIRT event and merged, providing they achieve group consensus.
+* When making changes to the RSIT itself only edit the [machinetag](working_copy/machinev1) file; the human-readable file will be automatically generated from this.
+* Discussions regarding the contents of the document shall happen via the mailing list.
+* Should you have any questions, please feel free to first ask the maintainers.
 
 ### Contributing to the working group
-To become part of the working group, please send an email to the ENISA Secretariat ([CSIRT-Relations@enisa.europa.eu](mailto:CSIRT-Relations@enisa.europa.eu)) or sign up for a physical meeting during a TF-CSIRT event. In case of physical meeting, please notify in presence to the ENISA secretariat or via email the request for addition to the mailing list.
+To join the working group, please send an email to the ENISA Secretariat ([CSIRT-Relations@enisa.europa.eu](mailto:CSIRT-Relations@enisa.europa.eu)) or sign up for a physical meeting during a TF-CSIRT event. In case of physical meeting, please notify in presence to the ENISA secretariat or via email the request for addition to the mailing list.
 
 Check the [TF-CSIRT meeting page](https://tf-csirt.org/tf-csirt/meetings/) to register for the next upcoming meeting.
 
