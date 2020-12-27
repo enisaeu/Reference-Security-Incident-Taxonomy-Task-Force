@@ -28,3 +28,6 @@ Check the [TF-CSIRT meeting page](https://tf-csirt.org/tf-csirt/meetings/) to re
 
 ## Licencing
 This GitHub project is licenced under CC0 1.0 Universal (CC0 1.0). For more information see the [licence](LICENCE).
+
+## Acknowledgements
+This work is built on the previous work by Jimmy Arvidsson, Don Stikvoort and eCSIRT.net who are fully acknowledged hereby. It was previously called [eCSIRT taxonomy](https://www.trusted-introducer.org/Incident-Classification-Taxonomy.pdf).
