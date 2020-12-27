@@ -1,3 +1,4 @@
+![ENISA Logo](https://www.enisa.europa.eu/++theme++enisa.Theme/templates/img/logo-big.png)
 # Reference Security Incident Taxonomy Working Group
 This GitHub repository hosts files relating to the ENISA Reference Security Incident Taxonomy Working Group.
 
