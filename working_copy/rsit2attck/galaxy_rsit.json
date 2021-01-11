@@ -1,0 +1,17 @@
+
+{
+    "description": "Reference Security Incident Classification Taxonomy",
+    "icon": "map",
+    "kill_chain_order": {
+      "RSIT": [
+                    "Abusive Content" , "Malicious Code" , "Information Gathering" , "Intrusion Attempts" , "Intrusions" , "Availability" , "Information Content Security" , "Fraud" , "Vulnerable" , "Other" , "Test" 
+      ]
+    },
+    "name": "Reference Security Incident Classification Taxonomy",
+    "namespace": "RSIT",
+    "type": "rsit",
+    "uuid": "2ea0ee61-cb79-4798-a74e-b043333fc015",
+    "version": 1
+  }
+  
+    
