@@ -30,9 +30,10 @@ list here all tools that make use of the taxonomy
 
 ## Statistics based on the RSIT WG taxonomy
   * [Incident statistics per Month and Quarter of CERT-LV](https://cert.lv/lv/incidenti/statistika)
-  * [CERT.at yearly report](https://cert.at/downloads/reports/jahresbericht-2017.html) 2017 (german only)
+  * [CERT.at yearly reports](https://cert.at/de/berichte/) (german only)
 
 ## Taxonomy translated in the local language
   * language - team name - link to translation, if public
-  * ES - INCIBE-CERT - [github](https://github.com/flosada/RSITaxonomy_ES/blob/master/humanv1.md)
-  * [LITNET-CERT](https://cert.litnet.lt/incidentu-taksonomija/)
+  * ES - [INCIBE-CERT](https://www.incibe-cert.es/en) - [GitHub](https://github.com/flosada/RSITaxonomy_ES/blob/master/humanv1.md)
+  * LT - [LITNET-CERT](https://cert.litnet.lt/) - [Website](https://cert.litnet.lt/incidentu-taksonomija/)
+  * PT - [Rede Nacional CSIRT](https://redecsirt.pt/) - [PDF file](https://www.redecsirt.pt/files/RNCSIRT_Taxonomia_v3.0.pdf) (based on RSIT version 1.1)
