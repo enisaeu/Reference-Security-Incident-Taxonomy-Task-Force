@@ -62,8 +62,8 @@ This will read the taxonomy file and output the galaxy and cluster file.
 ## Update MISP
 
 Copy the files and update the galaxies of MISP.
-- Put the galaxy file as **rsit.json** in `/var/www/MISP/app/files/misp-galaxy/galaxies/`
-- Put the cluster file as **rsit.json** in `/var/www/MISP/app/files/misp-galaxy/clusters/`
+- Copy galaxies/rsit.json in `/var/www/MISP/app/files/misp-galaxy/galaxies/`
+- Copy clusters/rsit.json in  `/var/www/MISP/app/files/misp-galaxy/clusters/`
 - Update the galaxies in MISP via Galaxies\List Galaxies\Update Galaxies
 
 # Some warnings

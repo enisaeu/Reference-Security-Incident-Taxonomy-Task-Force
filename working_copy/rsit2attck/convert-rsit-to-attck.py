@@ -16,8 +16,8 @@ rsit_taxonomy = "machinetag.json"
 # Put files in the galaxy and cluster folder
 # /var/www/MISP/app/files/misp-galaxy/galaxies
 # /var/www/MISP/app/files/misp-galaxy/clusters
-rsit_galaxy = "galaxy_rsit.json"
-rsit_cluster = "clusters_rsit.json"
+rsit_galaxy = "galaxies/rsit.json"
+rsit_cluster = "clusters/rsit.json"
 namespace = "rsit"
 description = "Reference Security Incident Classification Taxonomy"
 name = "RSIT"
@@ -110,15 +110,15 @@ def print_cluster(values, translate_galaxy):
                 {
                     "description": "%s",
                     "meta": {
+                    "cfr-type-of-incident": "%s",
                     "kill_chain": [
                         "%s:%s"
                     ]
                     },
                     "uuid": "%s",
-                    "value": "%s:%s",
-                    "cfr-type-of-incident": "%s"%s
+                    "value": "%s:%s"%s
                     %s
-                }""" % (values_list, values_comma, entry["description"], name, predicate, uuid_cluster_value, predicate, entry["expanded"], entry["expanded"], related_comma, related)
+                }""" % (values_list, values_comma, entry["description"], entry["expanded"], name, predicate, uuid_cluster_value, predicate, entry["expanded"], related_comma, related)
 
 
     f = open(rsit_cluster, "w")
@@ -148,4 +148,4 @@ with open(rsit_taxonomy) as f:
     print_cluster(values, translate_galaxy)
 
     print("Galaxy (%s) and cluster (%s) file created from taxonomy %s" % (rsit_galaxy, rsit_cluster, rsit_taxonomy ))
-    print("Copy the files into the MISP directory (/var/www/MISP/app/files/misp-galaxy/galaxies and /var/www/MISP/app/files/misp-galaxy/clusters) in a directory RSIT. Rename them to rsit.json once they are copied in the directory.")
+    print("Copy the directoreis into the MISP directory (/var/www/MISP/app/files/misp-galaxy/.")
