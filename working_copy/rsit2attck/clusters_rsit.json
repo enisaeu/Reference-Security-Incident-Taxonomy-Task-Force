@@ -7,7 +7,7 @@
     "name": "rsit",
     "source": "https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force",
     "type": "rsit",
-    "uuid": "7ca4f363-8151-4a9c-9b2c-f7024337c0ab",
+    "uuid": "ed3f9269-8f08-4f78-8aee-ce0028f41b61",
     "values": [
                                                 
                 {
@@ -17,7 +17,7 @@
                         "RSIT:Abusive Content"
                     ]
                     },
-                    "uuid": "9e594928-097e-4a4b-af6a-7416b33e189b",
+                    "uuid": "b81d1a4a-c71d-457b-9e02-7ea885a56564",
                     "value": "Abusive Content:Spam",
                     "cfr-type-of-incident": "Spam",
                       "related": [ 
@@ -36,7 +36,7 @@
                         "RSIT:Abusive Content"
                     ]
                     },
-                    "uuid": "2c1a5a13-2200-4be3-be69-fcf61321c5ac",
+                    "uuid": "a5fb0564-7bb6-4478-9713-9c23085df32e",
                     "value": "Abusive Content:Harmful Speech",
                     "cfr-type-of-incident": "Harmful Speech"
                     
@@ -48,7 +48,7 @@
                         "RSIT:Abusive Content"
                     ]
                     },
-                    "uuid": "d2a219d8-3a0a-42b7-b6ee-08612d0d6a9f",
+                    "uuid": "abfbf4ae-a10a-43aa-9ef2-0dbbaac3c789",
                     "value": "Abusive Content:(Child) Sexual Exploitation/Sexual/Violent Content",
                     "cfr-type-of-incident": "(Child) Sexual Exploitation/Sexual/Violent Content",
                       "related": [ 
@@ -67,7 +67,7 @@
                         "RSIT:Malicious Code"
                     ]
                     },
-                    "uuid": "e5defc02-aaf2-47c9-9718-d60f8afef84c",
+                    "uuid": "e841c237-e39c-4804-a780-f6fc4a2e6371",
                     "value": "Malicious Code:Infected System",
                     "cfr-type-of-incident": "Infected System"
                     
@@ -79,7 +79,7 @@
                         "RSIT:Malicious Code"
                     ]
                     },
-                    "uuid": "8ab182e8-4ff1-4fb0-b63f-12a9c2af9ded",
+                    "uuid": "9c1bbe1b-8f51-4edc-8974-eb049617d6d1",
                     "value": "Malicious Code:C2 Server",
                     "cfr-type-of-incident": "C2 Server",
                       "related": [ 
@@ -98,7 +98,7 @@
                         "RSIT:Malicious Code"
                     ]
                     },
-                    "uuid": "a022a211-22f2-4ac5-b6f7-d7cc2ebf964d",
+                    "uuid": "4eb23762-69e1-45fb-9e4a-700e0c183ac5",
                     "value": "Malicious Code:Malware Distribution",
                     "cfr-type-of-incident": "Malware Distribution"
                     
@@ -110,7 +110,7 @@
                         "RSIT:Malicious Code"
                     ]
                     },
-                    "uuid": "d1f3aaff-734c-4339-90f3-99792609dfef",
+                    "uuid": "c6eb8e72-40cc-4fc6-b2ca-dc8ba88c8fa3",
                     "value": "Malicious Code:Malware Configuration",
                     "cfr-type-of-incident": "Malware Configuration"
                     
@@ -122,7 +122,7 @@
                         "RSIT:Information Gathering"
                     ]
                     },
-                    "uuid": "de68b92e-3571-41fb-95bb-18d9a2c861f9",
+                    "uuid": "1f09c97b-fee4-4376-b525-809bb61de579",
                     "value": "Information Gathering:Scanning",
                     "cfr-type-of-incident": "Scanning",
                         "related": [ 
@@ -155,7 +155,7 @@
                         "RSIT:Information Gathering"
                     ]
                     },
-                    "uuid": "28610507-a817-4c62-8780-363938c3ea66",
+                    "uuid": "4958bdb2-8d0d-4bc7-8762-5a967a92868b",
                     "value": "Information Gathering:Sniffing",
                     "cfr-type-of-incident": "Sniffing",
                        "related": [ 
@@ -181,7 +181,7 @@
                         "RSIT:Information Gathering"
                     ]
                     },
-                    "uuid": "843c7416-6e89-438f-a806-5035483ed272",
+                    "uuid": "a7d12859-b60f-4536-b356-fcaaf8234403",
                     "value": "Information Gathering:Social Engineering",
                     "cfr-type-of-incident": "Social Engineering"
                     
@@ -193,7 +193,7 @@
                         "RSIT:Intrusion Attempts"
                     ]
                     },
-                    "uuid": "ed7f3431-15f5-4b84-8fda-7b3e95d00499",
+                    "uuid": "b0e536ba-dce3-430d-a7f6-bcf99ca6de44",
                     "value": "Intrusion Attempts:Exploitation of known Vulnerabilities",
                     "cfr-type-of-incident": "Exploitation of known Vulnerabilities",
                          "related": [ 
@@ -233,7 +233,7 @@
                         "RSIT:Intrusion Attempts"
                     ]
                     },
-                    "uuid": "a098ffa1-28fb-4cba-8909-a718fec48a01",
+                    "uuid": "f4b8f7d6-bccb-49ef-b478-66a77e2c2238",
                     "value": "Intrusion Attempts:Login attempts",
                     "cfr-type-of-incident": "Login attempts",
                           "related": [ 
@@ -280,7 +280,7 @@
                         "RSIT:Intrusion Attempts"
                     ]
                     },
-                    "uuid": "c90e9b5e-5659-44f9-9442-c8caa31e85d0",
+                    "uuid": "a2687bac-9a4f-4e90-a094-8b2f481ceaef",
                     "value": "Intrusion Attempts:New attack signature",
                     "cfr-type-of-incident": "New attack signature"
                     
@@ -292,7 +292,7 @@
                         "RSIT:Intrusions"
                     ]
                     },
-                    "uuid": "23a8bb42-f7d5-43d5-9d6e-d463a85c9e75",
+                    "uuid": "68cf72aa-0125-445e-adf8-de0efe4a664c",
                     "value": "Intrusions:Privileged Account Compromise",
                     "cfr-type-of-incident": "Privileged Account Compromise",
                       "related": [ 
@@ -311,7 +311,7 @@
                         "RSIT:Intrusions"
                     ]
                     },
-                    "uuid": "cbfa8da0-d561-4479-a5dc-6528fcc7d417",
+                    "uuid": "bc82f61e-7a39-4d2f-bc86-4f8ec886af01",
                     "value": "Intrusions:Unprivileged Account Compromise",
                     "cfr-type-of-incident": "Unprivileged Account Compromise",
                       "related": [ 
@@ -330,7 +330,7 @@
                         "RSIT:Intrusions"
                     ]
                     },
-                    "uuid": "f12607b4-c1b9-4ce8-a3b7-b1aca01dcd13",
+                    "uuid": "d12415bd-d965-4afe-94a3-e56e16c78004",
                     "value": "Intrusions:Application Compromise",
                     "cfr-type-of-incident": "Application Compromise",
                       "related": [ 
@@ -349,7 +349,7 @@
                         "RSIT:Intrusions"
                     ]
                     },
-                    "uuid": "47fad596-fc50-44ea-a7c8-4c04981f9dd5",
+                    "uuid": "995f7028-9b13-4519-80f1-1b22f36aefb4",
                     "value": "Intrusions:System Compromise",
                     "cfr-type-of-incident": "System Compromise"
                     
@@ -361,7 +361,7 @@
                         "RSIT:Intrusions"
                     ]
                     },
-                    "uuid": "83137519-710b-4e53-b5cb-eb95fb34b8f4",
+                    "uuid": "2720eeb7-4611-4330-b3da-2d3c9c5e6667",
                     "value": "Intrusions:Burglary",
                     "cfr-type-of-incident": "Burglary"
                     
@@ -373,7 +373,7 @@
                         "RSIT:Availability"
                     ]
                     },
-                    "uuid": "8895c3b1-fd48-488c-93dd-15c1a6cab5da",
+                    "uuid": "28883628-32cc-4bc6-8142-c1fc2c01bd9e",
                     "value": "Availability:Denial of Service",
                     "cfr-type-of-incident": "Denial of Service",
                       "related": [ 
@@ -392,7 +392,7 @@
                         "RSIT:Availability"
                     ]
                     },
-                    "uuid": "b8bdc662-2281-426a-8eac-b3928216eeac",
+                    "uuid": "ff14d9d0-c952-4995-9871-5aea332002c9",
                     "value": "Availability:Distributed Denial of Service",
                     "cfr-type-of-incident": "Distributed Denial of Service",
                       "related": [ 
@@ -411,7 +411,7 @@
                         "RSIT:Availability"
                     ]
                     },
-                    "uuid": "5df81a60-3526-4d7d-b760-9e1d6a19aa16",
+                    "uuid": "8e9f1fa4-e657-4311-a362-a80fdd0b7f33",
                     "value": "Availability:Misconfiguration",
                     "cfr-type-of-incident": "Misconfiguration"
                     
@@ -423,7 +423,7 @@
                         "RSIT:Availability"
                     ]
                     },
-                    "uuid": "5cd75d05-fbe3-4e2d-8b6f-c212eac81d34",
+                    "uuid": "c63fcb56-69bb-4b35-a1ea-13d8f3272ae0",
                     "value": "Availability:Sabotage",
                     "cfr-type-of-incident": "Sabotage"
                     
@@ -435,7 +435,7 @@
                         "RSIT:Availability"
                     ]
                     },
-                    "uuid": "b9ab2c1f-8e6b-49cb-8dae-d1492676eadf",
+                    "uuid": "934a52bd-da26-4f62-9ec7-d21c01db2802",
                     "value": "Availability:Outage",
                     "cfr-type-of-incident": "Outage"
                     
@@ -447,7 +447,7 @@
                         "RSIT:Information Content Security"
                     ]
                     },
-                    "uuid": "fce8a111-e75b-4141-af42-88862da6fbf2",
+                    "uuid": "ddbaedeb-dc34-4f6b-a3b1-6337270cb175",
                     "value": "Information Content Security:Unauthorised access to information",
                     "cfr-type-of-incident": "Unauthorised access to information"
                     
@@ -459,7 +459,7 @@
                         "RSIT:Information Content Security"
                     ]
                     },
-                    "uuid": "a7ef46d5-6565-4b7c-90b6-6db47da45b3c",
+                    "uuid": "b6f82050-4732-46b4-b110-d582c553ed0f",
                     "value": "Information Content Security:Unauthorised modification of information",
                     "cfr-type-of-incident": "Unauthorised modification of information",
                       "related": [ 
@@ -478,7 +478,7 @@
                         "RSIT:Information Content Security"
                     ]
                     },
-                    "uuid": "a6ba2de5-4940-450e-a654-5e54300bb0fa",
+                    "uuid": "d9c04af1-deb8-44a8-9085-7857d5a2015d",
                     "value": "Information Content Security:Data Loss",
                     "cfr-type-of-incident": "Data Loss"
                     
@@ -490,7 +490,7 @@
                         "RSIT:Information Content Security"
                     ]
                     },
-                    "uuid": "a6764d04-afcb-43ba-a616-629923f3d7f6",
+                    "uuid": "a49fcb43-c94e-4a13-b39e-ed34bfbe2633",
                     "value": "Information Content Security:Leak of confidential information",
                     "cfr-type-of-incident": "Leak of confidential information"
                     
@@ -502,7 +502,7 @@
                         "RSIT:Fraud"
                     ]
                     },
-                    "uuid": "baf4e789-72b9-4f6a-87be-3dad093f5846",
+                    "uuid": "38f58cf2-e72c-4d8e-ac1f-9a5180aaad99",
                     "value": "Fraud:Unauthorised use of resources",
                     "cfr-type-of-incident": "Unauthorised use of resources"
                     
@@ -514,7 +514,7 @@
                         "RSIT:Fraud"
                     ]
                     },
-                    "uuid": "8c073dbc-1aed-4a47-855e-26a25ab2c858",
+                    "uuid": "99b749d8-f9c6-445b-82d5-3722f0d664dd",
                     "value": "Fraud:Copyright",
                     "cfr-type-of-incident": "Copyright"
                     
@@ -526,7 +526,7 @@
                         "RSIT:Fraud"
                     ]
                     },
-                    "uuid": "fdaf9074-2d9e-4cdf-bc07-9a2dfb5049b0",
+                    "uuid": "1057ec33-5932-4696-80b0-ad3ce26d6c23",
                     "value": "Fraud:Masquerade",
                     "cfr-type-of-incident": "Masquerade"
                     
@@ -538,7 +538,7 @@
                         "RSIT:Fraud"
                     ]
                     },
-                    "uuid": "d252df12-cfaa-49cb-a3a2-a4bfeb0bb675",
+                    "uuid": "9c16409a-2029-470e-8579-77d953b2c6d3",
                     "value": "Fraud:Phishing",
                     "cfr-type-of-incident": "Phishing",
                       "related": [ 
@@ -557,7 +557,7 @@
                         "RSIT:Vulnerable"
                     ]
                     },
-                    "uuid": "4a0f8f51-2d75-46c4-b44f-605792ecb526",
+                    "uuid": "c8ca2965-f8df-4a74-92b3-4a473608ef90",
                     "value": "Vulnerable:Weak crypto",
                     "cfr-type-of-incident": "Weak crypto"
                     
@@ -569,7 +569,7 @@
                         "RSIT:Vulnerable"
                     ]
                     },
-                    "uuid": "dbd58058-4762-46c6-83c1-49f98647be3c",
+                    "uuid": "41ee48e3-92e0-4f0c-b2f0-461325e149bc",
                     "value": "Vulnerable:DDoS amplifier",
                     "cfr-type-of-incident": "DDoS amplifier",
                       "related": [ 
@@ -588,7 +588,7 @@
                         "RSIT:Vulnerable"
                     ]
                     },
-                    "uuid": "9e56c604-9443-4754-be5e-d2e968c6fc85",
+                    "uuid": "a2dbfb66-dc27-41e0-976f-4888dcab0cb3",
                     "value": "Vulnerable:Potentially unwanted accessible services",
                     "cfr-type-of-incident": "Potentially unwanted accessible services"
                     
@@ -600,7 +600,7 @@
                         "RSIT:Vulnerable"
                     ]
                     },
-                    "uuid": "39290338-1588-4b5a-9f00-6ba689005ce2",
+                    "uuid": "609449a3-5951-42b4-a4cd-196e09a3120f",
                     "value": "Vulnerable:Information disclosure",
                     "cfr-type-of-incident": "Information disclosure"
                     
@@ -612,7 +612,7 @@
                         "RSIT:Vulnerable"
                     ]
                     },
-                    "uuid": "2c0da413-40e4-49d2-980c-70869ce24ae7",
+                    "uuid": "4d1c5a5e-1244-457b-9e33-c0b1695d5e51",
                     "value": "Vulnerable:Vulnerable system",
                     "cfr-type-of-incident": "Vulnerable system"
                     
@@ -624,7 +624,7 @@
                         "RSIT:Other"
                     ]
                     },
-                    "uuid": "d1eb20ac-f5de-4f56-ad68-44a108ce13ff",
+                    "uuid": "88e0d210-0b5a-405d-a979-5375f6cb2d01",
                     "value": "Other:Uncategorised",
                     "cfr-type-of-incident": "Uncategorised"
                     
@@ -636,7 +636,7 @@
                         "RSIT:Other"
                     ]
                     },
-                    "uuid": "b79ef50e-da51-499e-b9b7-764da3505e88",
+                    "uuid": "6bdbec29-d198-4031-a15e-33e8973c5f05",
                     "value": "Other:Undetermined",
                     "cfr-type-of-incident": "Undetermined"
                     
@@ -648,7 +648,7 @@
                         "RSIT:Test"
                     ]
                     },
-                    "uuid": "1254de68-2ad6-46b3-aa83-58b234fb80b9",
+                    "uuid": "bdeb2700-cc42-4ccc-a3bc-950c6c495102",
                     "value": "Test:Test",
                     "cfr-type-of-incident": "Test"
                     

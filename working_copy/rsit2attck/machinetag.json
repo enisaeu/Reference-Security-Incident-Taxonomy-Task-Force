@@ -7,7 +7,7 @@
             "expanded": "Spam",
             "value": "spam",
             "attck": [ 
-              { "dest-uuid": "a62a8db3-f23a-4d8f-afd6-9dbc77e7813b", "MITRE": "T1566 - Phishing"}
+              { "dest-uuid": "a62a8db3-f23a-4d8f-afd6-9dbc77e7813b", "MITRE": "T1566 - Phishing", "timestamp": 20210128}
             ]
           },
           {
@@ -20,7 +20,7 @@
             "expanded": "(Child) Sexual Exploitation/Sexual/Violent Content",
             "value": "violence",
             "attck": [ 
-              { "dest-uuid": "a62a8db3-f23a-4d8f-afd6-9dbc77e7813b", "MITRE": "T1566 - Phishing"}
+              { "dest-uuid": "a62a8db3-f23a-4d8f-afd6-9dbc77e7813b", "MITRE": "T1566 - Phishing", "timestamp": 20210128}
             ]
           }
         ],
@@ -38,7 +38,7 @@
             "expanded": "C2 Server",
             "value": "c2-server",
             "attck": [ 
-              { "dest-uuid": "92d7da27-2d91-488e-a00c-059dc162766d", "MITRE": "T1041 - Exfiltration Over C2 Channel"}
+              { "dest-uuid": "92d7da27-2d91-488e-a00c-059dc162766d", "MITRE": "T1041 - Exfiltration Over C2 Channel", "timestamp": 20210128}
             ]            
           },
           {
@@ -61,9 +61,9 @@
             "expanded": "Scanning",
             "value": "scanner",
             "attck": [ 
-              { "dest-uuid": "e3a12395-188d-4051-9a16-ea8e14d07b88", "MITRE": "T1046 -  Network Service Scanning"},
-              { "dest-uuid": "67073dde-d720-45ae-83da-b12d5e73ca3b", "MITRE": "T1595 - Active Scanning"},
-              { "dest-uuid": "5502c4e9-24ef-4d5f-8ee9-9e906c2f82c4", "MITRE": "T1595/002 - Active Scanning: Vulnerability Scanning"}              
+              { "dest-uuid": "e3a12395-188d-4051-9a16-ea8e14d07b88", "MITRE": "T1046 -  Network Service Scanning", "timestamp": 20210128},
+              { "dest-uuid": "67073dde-d720-45ae-83da-b12d5e73ca3b", "MITRE": "T1595 - Active Scanning", "timestamp": 20210128},
+              { "dest-uuid": "5502c4e9-24ef-4d5f-8ee9-9e906c2f82c4", "MITRE": "T1595/002 - Active Scanning: Vulnerability Scanning", "timestamp": 20210128}              
             ]
           },
           {
@@ -71,8 +71,8 @@
             "expanded": "Sniffing",
             "value": "sniffing",
             "attck": [ 
-              { "dest-uuid": "3257eb21-f9a7-4430-8de1-d8b6e288f529", "MITRE": "T1040 -  Network Sniffing"},
-              { "dest-uuid": "035bb001-ab69-4a0b-9f6c-2de8b09e1b9d", "MITRE": "T1557 - Man-in-the-Middle"}
+              { "dest-uuid": "3257eb21-f9a7-4430-8de1-d8b6e288f529", "MITRE": "T1040 -  Network Sniffing", "timestamp": 20210128},
+              { "dest-uuid": "035bb001-ab69-4a0b-9f6c-2de8b09e1b9d", "MITRE": "T1557 - Man-in-the-Middle", "timestamp": 20210128}
             ]
           },
           {
@@ -90,10 +90,10 @@
             "expanded": "Exploitation of known Vulnerabilities",
             "value": "ids-alert",
             "attck": [ 
-              { "dest-uuid": "3f886f2a-874f-4333-b794-aa6075009b1c", "MITRE": "T1190 - Exploit Public-Facing Application"},
-              { "dest-uuid": "be2dcee9-a7a7-4e38-afd6-21b31ecc3d63", "MITRE": "T1203 - Exploitation for Client Execution"},
-              { "dest-uuid": "fe926152-f431-4baf-956c-4ad3cb0bf23b", "MITRE": "T1211 - Exploitation for Defense Evasion"},
-              { "dest-uuid": "9db0cf3a-a3c9-4012-8268-123b9db6fd82", "MITRE": "T1210 -  Exploitation of Remote Services"}
+              { "dest-uuid": "3f886f2a-874f-4333-b794-aa6075009b1c", "MITRE": "T1190 - Exploit Public-Facing Application", "timestamp": 20210128},
+              { "dest-uuid": "be2dcee9-a7a7-4e38-afd6-21b31ecc3d63", "MITRE": "T1203 - Exploitation for Client Execution", "timestamp": 20210128},
+              { "dest-uuid": "fe926152-f431-4baf-956c-4ad3cb0bf23b", "MITRE": "T1211 - Exploitation for Defense Evasion", "timestamp": 20210128},
+              { "dest-uuid": "9db0cf3a-a3c9-4012-8268-123b9db6fd82", "MITRE": "T1210 -  Exploitation of Remote Services", "timestamp": 20210128}
             ]
           },
           {
@@ -101,11 +101,11 @@
             "expanded": "Login attempts",
             "value": "brute-force",
             "attck": [ 
-              { "dest-uuid": "a93494bb-4b80-4ea1-8695-3236a49916fd", "MITRE": "T1110 -  Brute Force"},
-              { "dest-uuid": "09c4c11e-4fa1-4f8c-8dad-3cf8e69ad119", "MITRE": "T1110/001 - Password Guessing"},
-              { "dest-uuid": "1d24cdee-9ea2-4189-b08e-af110bf2435d", "MITRE": "T1110/002 - Password Cracking"},
-              { "dest-uuid": "692074ae-bb62-4a5e-a735-02cb6bde458c", "MITRE": "T1110/003 - Password Spraying"},
-              { "dest-uuid": "b2d03cea-aec1-45ca-9744-9ee583c1e1cc", "MITRE": "T1110/004 - Credential Stuffing"}
+              { "dest-uuid": "a93494bb-4b80-4ea1-8695-3236a49916fd", "MITRE": "T1110 -  Brute Force", "timestamp": 20210128},
+              { "dest-uuid": "09c4c11e-4fa1-4f8c-8dad-3cf8e69ad119", "MITRE": "T1110/001 - Password Guessing", "timestamp": 20210128},
+              { "dest-uuid": "1d24cdee-9ea2-4189-b08e-af110bf2435d", "MITRE": "T1110/002 - Password Cracking", "timestamp": 20210128},
+              { "dest-uuid": "692074ae-bb62-4a5e-a735-02cb6bde458c", "MITRE": "T1110/003 - Password Spraying", "timestamp": 20210128},
+              { "dest-uuid": "b2d03cea-aec1-45ca-9744-9ee583c1e1cc", "MITRE": "T1110/004 - Credential Stuffing", "timestamp": 20210128}
             ]            
           },
           {
@@ -123,7 +123,7 @@
             "expanded": "Privileged Account Compromise",
             "value": "privileged-account-compromise",
             "attck": [ 
-              { "dest-uuid": "b17a1a56-e99c-403c-8948-561df0cffe81", "MITRE": "T1078 - Valid Accounts"}
+              { "dest-uuid": "b17a1a56-e99c-403c-8948-561df0cffe81", "MITRE": "T1078 - Valid Accounts", "timestamp": 20210128}
             ]
           },
           {
@@ -131,7 +131,7 @@
             "expanded": "Unprivileged Account Compromise",
             "value": "unprivileged-account-compromise",
             "attck": [ 
-              { "dest-uuid": "b17a1a56-e99c-403c-8948-561df0cffe81", "MITRE": "T1078 - Valid Accounts"}
+              { "dest-uuid": "b17a1a56-e99c-403c-8948-561df0cffe81", "MITRE": "T1078 - Valid Accounts", "timestamp": 20210128}
             ]
           },
           {
@@ -139,7 +139,7 @@
             "expanded": "Application Compromise",
             "value": "application-compromise",
             "attck": [ 
-              { "dest-uuid": "3f886f2a-874f-4333-b794-aa6075009b1c", "MITRE": "T1190 - Exploit Public-Facing Application"}
+              { "dest-uuid": "3f886f2a-874f-4333-b794-aa6075009b1c", "MITRE": "T1190 - Exploit Public-Facing Application", "timestamp": 20210128}
             ]            
           },
           {
@@ -162,7 +162,7 @@
             "expanded": "Denial of Service",
             "value": "dos",
             "attck": [ 
-              { "dest-uuid": "d74c4a7e-ffbf-432f-9365-7ebf1f787cab", "MITRE": "T1498 -  Network Denial of Service"}
+              { "dest-uuid": "d74c4a7e-ffbf-432f-9365-7ebf1f787cab", "MITRE": "T1498 -  Network Denial of Service", "timestamp": 20210128}
             ]
           },
           {
@@ -170,7 +170,7 @@
             "expanded": "Distributed Denial of Service",
             "value": "ddos",
             "attck": [ 
-              { "dest-uuid": "d74c4a7e-ffbf-432f-9365-7ebf1f787cab", "MITRE": "T1498 -  Network Denial of Service"}
+              { "dest-uuid": "d74c4a7e-ffbf-432f-9365-7ebf1f787cab", "MITRE": "T1498 -  Network Denial of Service", "timestamp": 20210128}
             ]
           },
           {
@@ -203,7 +203,7 @@
             "expanded": "Unauthorised modification of information",
             "value": "unauthorised-information-modification",
             "attck": [ 
-              { "dest-uuid": "ac9e6b22-11bf-45d7-9181-c1cb08360931", "MITRE": "T1565 - Data Manipulation"}
+              { "dest-uuid": "ac9e6b22-11bf-45d7-9181-c1cb08360931", "MITRE": "T1565 - Data Manipulation", "timestamp": 20210128}
             ]            
           },
           {
@@ -241,7 +241,7 @@
             "expanded": "Phishing",
             "value": "phishing",
             "attck": [ 
-              { "dest-uuid": "a62a8db3-f23a-4d8f-afd6-9dbc77e7813b", "MITRE": "T1566 - Phishing"}
+              { "dest-uuid": "a62a8db3-f23a-4d8f-afd6-9dbc77e7813b", "MITRE": "T1566 - Phishing", "timestamp": 20210128}
             ]
           }
         ],
@@ -259,7 +259,7 @@
             "expanded": "DDoS amplifier",
             "value": "ddos-amplifier",
             "attck": [ 
-              { "dest-uuid": "d74c4a7e-ffbf-432f-9365-7ebf1f787cab", "MITRE": "T1498 -  Network Denial of Service"}
+              { "dest-uuid": "d74c4a7e-ffbf-432f-9365-7ebf1f787cab", "MITRE": "T1498 -  Network Denial of Service", "timestamp": 20210128}
             ]
           },
           {
