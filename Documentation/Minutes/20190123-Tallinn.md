@@ -1,6 +1,6 @@
 # Reference Taxonomy Working Group Minutes
 
-Meeting: Reference taxonomy meeting Location: Tallinn Date: 23/01/2018
+Meeting: Reference taxonomy meeting Location: Tallinn Date: 23/01/2019
 ## Meeting overview
 - Actions from last meeting
 - Actions for this meeting
