@@ -1,5 +1,5 @@
 # Reference Security Incident Taxonomy Working Group
-This GitHub repository hosts files relating to the ENISA Reference Security Incident Taxonomy Working Group.
+This GitHub repository hosts files relating to the TF-CSIRT Reference Security Incident Taxonomy Working Group.
 
 ## Background
 During the ‘51st TF-CSIRT meeting’ (held on 15 May 2017 in The Hague, Netherlands) the CSIRT community concluded that there was an urgent need for an incident taxonomy (i.e., classification scheme) that serves as a fixed reference for all CSIRTs.
