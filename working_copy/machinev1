@@ -41,11 +41,6 @@
           "description": "URI hosting a malware configuration file, e.g. web-injects for a banking trojan.",
           "expanded": "Malware Configuration",
           "value": "malware-configuration"
-        },
-        {
-          "description": "System infected with ransomware, e.g. PC, smartphone or server infected with a ransomware. Most often this refers to encrypted data and payment request for the decryption.",
-          "expanded": "Ransomware",
-          "value": "ransomware"
         }
       ],
       "predicate": "malicious-code"
