@@ -139,7 +139,7 @@
         },
         {
           "description": "An outage caused, for example, by air conditioning failure or natural disaster.",
-          "expanded": "Outage",
+          "expanded": "Malfunction and Outage",
           "value": "outage"
         }
       ],
