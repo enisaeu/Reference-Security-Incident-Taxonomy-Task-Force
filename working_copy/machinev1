@@ -133,8 +133,8 @@
           "value": "misconfiguration"
         },
         {
-          "description": "Physical sabotage, e.g., cutting wires or malicious arson.",
-          "expanded": "Sabotage",
+          "description": "Physical sabotage, e.g., cutting wires or malicious arson, also caused by terroristic attacks.",
+          "expanded": "Sabotage and Terrorism",
           "value": "sabotage"
         },
         {
