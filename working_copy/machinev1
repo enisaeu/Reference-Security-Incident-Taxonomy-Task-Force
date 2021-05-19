@@ -221,6 +221,11 @@
           "description": "A system which is vulnerable to certain attacks, e.g., misconfigured client proxy settings (such as WPAD), outdated operating system version, or cross-site scripting vulnerabilities.",
           "expanded": "Vulnerable System",
           "value": "vulnerable-system"
+        },
+        {
+          "description": "Usage or enablement of unsecure communication protocols (e.g. FTP, HTTP, Telnet, etc).",
+          "expanded": "Unsecure Communication",
+          "value": "unsecure communication"
         }
       ],
       "predicate": "vulnerable"
