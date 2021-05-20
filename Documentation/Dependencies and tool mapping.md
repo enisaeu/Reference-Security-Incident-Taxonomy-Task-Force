@@ -15,7 +15,7 @@ list here all tools that make use of the taxonomy
 
 ## Taxonomy users
   * [CERT.at](https://www.cert.at)
-  * EC DIGIT CSIRC
+  * [EC-DIGIT-CSIRC](https://github.com/EC-DIGIT-CSIRC/)
   * [CERT-BUND](https://www.bsi.bund.de/EN/Topics/IT-Crisis-Management/CERT-Bund/cert-bund_node.html)
   * [CERT-SI](https://www.cert.si/)
   * [INCIBE-CERT](https://www.incibe-cert.es)
