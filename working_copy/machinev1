@@ -133,7 +133,7 @@
           "value": "misconfiguration"
         },
         {
-          "description": "Physical sabotage, e.g., cutting wires or malicious arson.",
+          "description": "Intentional actions maliciously threatening to, attempting to or actually damaging a system or component with the aim of disrupting the availability of a service. These can happen both at logical and physical levels, from malicious firewall rules dropping all traffic, to wire-cutting, bomb threats or arson.",
           "expanded": "Sabotage",
           "value": "sabotage"
         },
