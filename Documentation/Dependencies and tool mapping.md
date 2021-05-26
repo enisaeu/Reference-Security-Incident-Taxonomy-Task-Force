@@ -12,6 +12,7 @@ list here all tools that make use of the taxonomy
 ## Security tools
 
   * [AIL](https://github.com/CIRCL/AIL-framework) as the tool supports MISP taxonomy out-of-the-box
+  * [**STORM** powered by **OTRS**](https://otrs.com/storm/) as the tools comes with a predefined field for the taxonomy
 
 ## Taxonomy users
   * [CERT.at](https://www.cert.at)
