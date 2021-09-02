@@ -20,7 +20,7 @@ The taxonomy itself does not have any rule on how it needs to be used and theref
 
 Often, the clarification depends on the point of view. Some examples:
 * C2 server network connection: A network connection between a client computer, infected by a malware, to a Command & Control server: This IoC is both classifiable as "Malicious Code / Infected System" (for the client computer) as well as "Malicious Code / C2 Server" (for the server).
-* Phishing page: A hacked website abused as phishing page is both "Information Content Security / Unauthorised modification of information" (for the website) as well as "Fraud / Phishing" (for any user).
+* Phishing page: A hacked website abused as phishing page is both "Information Security / Unauthorised modification of information" (for the website) as well as "Fraud / Phishing" (for any user).
 
 A tricky issue is statistics: Does a data record, which is then multiply classified, count for all its classifications, or proportionally? This is, again, left to the user to decided. However, it should be clearly stated in the statistics description, how the numbers are composed.
 
