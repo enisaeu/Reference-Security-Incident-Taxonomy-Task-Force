@@ -308,7 +308,7 @@
       "value": "test"
     }
   ],
-  "version": 1002,
+  "version": 1003,
   "description": "Reference Security Incident Classification Taxonomy",
   "namespace": "rsit"
 }
