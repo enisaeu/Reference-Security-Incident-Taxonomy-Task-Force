@@ -138,7 +138,7 @@
           "value": "sabotage"
         },
         {
-          "description": "An outage caused, for example, by air conditioning failure or natural disaster.",
+          "description": "An outage caused, for example, by air conditioning failure.",
           "expanded": "Outage",
           "value": "outage"
         }
@@ -228,6 +228,16 @@
     {
       "entry": [
         {
+          "description": "Outage caused by natural disaster (e.g. earthquakes, storms, hurricanes, flooding, etc.)",
+          "expanded": "Natural or Environmental Disaster",
+          "value": "natural disaster"
+        }
+      ],
+      "predicate": "accidental event"
+    },
+    {
+      "entry": [
+        {
           "description": "All incidents which don't fit in one of the given categories should be put into this class or the incident is not categorised.",
           "expanded": "Uncategorised",
           "value": "other"
@@ -297,10 +307,15 @@
       "expanded": "Vulnerable",
       "value": "vulnerable"
     },
-    {
+     {
       "description": "All incidents which don't fit in one of the given categories should be put into this class. If the number of incidents in this category increases, it is an indicator that the classification scheme must be revised.",
+      "expanded": "Accidental Event (No Malice)",
+      "value": "accidental event"
+    },
+    {
+      "description": "Accidental events not linked to a willful will, such as natural or environmental disaster",
       "expanded": "Other",
-      "value": "other"
+      "value": "accidental event"
     },
     {
       "description": "Meant for testing.",
