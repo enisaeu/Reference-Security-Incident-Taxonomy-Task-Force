@@ -9,7 +9,7 @@ Using the Reference Security Incident Taxonomy in your environment doesn't requi
 
 ## Multiple values
 
-Security incidents often don't fall into one single classification. For example an incident can involve an attacker conducting multiple login attempts (Intrusion Attempts / Login attempts) with the purpose of gaining -unauthorized- access to information (Information Content Security	/ Unauthorised access to information). Another example is where an infected system (Malicious Code / Infected System) communicates with an external server to receive commands (Malicious Code / C2 Server).
+Security incidents often don't fall into one single classification. For example an incident can involve an attacker conducting multiple login attempts (Intrusion Attempts / Login attempts) with the purpose of gaining -unauthorized- access to information (Information Security / Unauthorised access to information). Another example is where an infected system (Malicious Code / Infected System) communicates with an external server to receive commands (Malicious Code / C2 Server).
 
 When multiple values apply, the **primary** classification of an incident is the **intent** of the attacker, whereas the **secondary** classification can then be the means, or the transport mechanism, used to conduct the attack. For the above example, the infected system is the primary classification, where the C2 Server would be the secondary classification.
 
