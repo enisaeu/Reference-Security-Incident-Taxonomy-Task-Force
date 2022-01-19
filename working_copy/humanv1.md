@@ -49,7 +49,7 @@ Generated from [machine readable version](machinev1). Please **DO NOT** edit thi
 | Vulnerable | DDoS Amplifier | Publicly accessible services that can be abused for conducting DDoS reflection/amplification attacks, e.g., DNS open-resolvers or NTP servers with monlist enabled. |
 | Vulnerable | Potentially Unwanted Accessible Services | Potentially unwanted publicly accessible services, e.g., Telnet, RDP or VNC. |
 | Vulnerable | Information disclosure | Publicly accessible services potentially disclosing sensitive information, e.g., SNMP or Redis. |
-| Vulnerable | Vulnerable System | A system which is vulnerable to certain attacks, e.g., misconfigured client proxy settings (such as WPAD), outdated operating system version, or cross-site scripting vulnerabilities. |
+| Vulnerable | Vulnerable System | A system which is vulnerable to certain attacks, e.g., misconfigured client proxy settings (such as WPAD), outdated operating system version, cross-site scripting vulnerabilities or weak access control (missing password complexity and length controls, missing or poor authentication factors, presence of default account names/passwords, no Segregation of Duties, etc.). |
 | Other | Uncategorised | All incidents which don't fit in one of the given categories should be put into this class or the incident is not categorised. |
 | Other | Undetermined | The categorisation of the incident is unknown/undetermined. |
 | Test | Test | Meant for testing. |
