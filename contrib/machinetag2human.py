@@ -3,7 +3,7 @@
 from __future__ import print_function
 
 """ machinetag2human.py
-Copyright 2018 Aaron Kaplan <kaplan@cert.at>
+Copyright 2018-2023 Aaron Kaplan <aaron@lo-res.org>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
