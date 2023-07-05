@@ -1,9 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-from __future__ import print_function
 
-""" machinetag2human.py
-Copyright 2018-2023 Aaron Kaplan <aaron@lo-res.org>
+""" machinetag2csv.py
+Copyright 2023 Aaron Kaplan <aaron@lo-res.org>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
@@ -16,13 +15,17 @@ import json
 # from datetime import datetime
 
 if len(sys.argv) != 2:
-    print("syntax: %s  <inputfile>" %(sys.argv[0],), file=sys.stderr)
+    print(f"syntax: {sys.argv[0]}  <inputfile>", file=sys.stderr)
     sys.exit(-1)
 
 infile = sys.argv[1]
 
+
 data = dict()
 predicates = dict()
+
+sep = ";"       # the CSV separator
+
 
 """
 ===============================
@@ -67,22 +70,7 @@ example entry of the input file:
 
 
 def print_header(data):
-    print("""
-# REFERENCE TAXONOMY INCIDENT  Taxonomy (human readable version)
-
-
-This is the %s.
-
-See the [machine readable version](machinev1) as well. It should have an identical contents to the human readable version.
-Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
-
-Version: %s
-
-Generated from [machine readable version](machinev1). Please **DO NOT** edit this file directly in github, rather use the machinev1 file.
-
-
-| CLASSIFICATION (1ST COLUMN)                                   | INCIDENT EXAMPLES (2ND COLUMN)        | Description / Examples |
-|---------------------------------------------------------      |------------------------------------   |------------------------|""" %(data['description'], data['version']))                  # , str(datetime.now())))
+    print("""classification;type;description/examples""")
 
 
 def print_entries(data):
@@ -91,8 +79,10 @@ def print_entries(data):
 
     for entry in data['values']:
         for t in entry['entry']:
-            d = t.get('description', '')
-            print('| %s | %s | %s |' %(predicates[entry['predicate']], t['expanded'], d))
+            desc = t.get('description', '')
+            pred = predicates[entry['predicate']]
+            rsit_type = t['expanded']
+            print(f'"{pred}"{sep}"{rsit_type}"{sep}"{desc}"')
 
 
 if __name__ == '__main__':
@@ -101,6 +91,6 @@ if __name__ == '__main__':
             data = json.load(f)
             print_header(data)
             print_entries(data)
-    except Exception as ex:
-        print("could not open or parse json input file. Reason: %s" %str(ex))
+    except Exception as e:
+        print(f"could not open or parse json input file. Reason: {str(e)}")
         sys.exit(-2)

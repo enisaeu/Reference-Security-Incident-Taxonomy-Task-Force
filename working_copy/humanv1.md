@@ -7,7 +7,7 @@ This is the Reference Security Incident Classification Taxonomy.
 See the [machine readable version](machinev1) as well. It should have an identical contents to the human readable version.
 Note that the 1st column is mandatory, the 2nd colum is an optional but desired field.
 
-Version: 1002
+Version: 1003
 
 Generated from [machine readable version](machinev1). Please **DO NOT** edit this file directly in github, rather use the machinev1 file.
 
@@ -35,7 +35,7 @@ Generated from [machine readable version](machinev1). Please **DO NOT** edit thi
 | Availability | Denial of Service | Denial of Service attack, e.g., sending specially crafted requests to a web application which causes the application to crash or slow down. |
 | Availability | Distributed Denial of Service | Distributed Denial of Service attack, e.g., SYN flood or UDP-based reflection/amplification attacks. |
 | Availability | Misconfiguration | Software misconfiguration resulting in service availability issues, e.g., DNS server with outdated DNSSEC Root Zone KSK. |
-| Availability | Sabotage | Physical sabotage, e.g., cutting wires or malicious arson. |
+| Availability | Sabotage | Intentional actions maliciously threatening to, attempting to or actually damaging a system or component with the aim of disrupting the availability of a service. These can happen both at logical and physical levels, from malicious firewall rules dropping all traffic, to wire-cutting, bomb threats or arson. |
 | Availability | Outage | An outage caused, for example, by air conditioning failure or natural disaster. |
 | Information Content Security | Unauthorised Access to Information | Unauthorised access to information, e.g., by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents. |
 | Information Content Security | Unauthorised Modification of Information | Unauthorised modification of information, e.g., by an attacker abusing stolen login credentials for a system or application, or ransomware encrypting data. Also includes defacements. |
