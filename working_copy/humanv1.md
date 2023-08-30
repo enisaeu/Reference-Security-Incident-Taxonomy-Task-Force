@@ -1,6 +1,5 @@
 
-# REFERENCE TAXONOMY INCIDENT  Taxonomy (human readable version)
-
+# REFERENCE SECURITY INCIDENT Taxonomy (human readable version)
 
 This is the Reference Security Incident Classification Taxonomy.
 
