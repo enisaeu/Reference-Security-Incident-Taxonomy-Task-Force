@@ -73,8 +73,8 @@
           "value": "ids-alert"
         },
         {
-          "description": "Multiple brute-force login attempts (including guessing or cracking of passwords). This IOC refers to a resource, which has been observed to perform brute-force attacks over a given application protocol.",
-          "expanded": "Login Attempts",
+          "description": "Multiple brute-force login and connection attempts (including guessing or cracking of passwords). This IOC refers to a resource, which has been observed to perform brute-force attacks over a given application protocol.",
+          "expanded": "Login and Connection Attempts",
           "value": "brute-force"
         },
         {
