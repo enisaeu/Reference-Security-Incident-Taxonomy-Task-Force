@@ -284,7 +284,7 @@
     },
     {
       "description": "Besides a local abuse of data and systems the information security can be endangered by a successful account or application compromise. Furthermore attacks are possible that intercept and access information during transmission (wiretapping, spoofing or hijacking). Human/configuration/software error can also be the cause.",
-      "expanded": "Information Content Security",
+      "expanded": "Information Security",
       "value": "information-content-security"
     },
     {

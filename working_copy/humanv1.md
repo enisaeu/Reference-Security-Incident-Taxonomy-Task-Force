@@ -37,10 +37,10 @@ Generated from [machine readable version](machinev1). Please **DO NOT** edit thi
 | Availability | Misconfiguration | Software misconfiguration resulting in service availability issues, e.g., DNS server with outdated DNSSEC Root Zone KSK. |
 | Availability | Sabotage | Intentional actions maliciously threatening to, attempting to or actually damaging a system or component with the aim of disrupting the availability of a service. These can happen both at logical and physical levels, from malicious firewall rules dropping all traffic, to wire-cutting, bomb threats or arson. |
 | Availability | Outage | An outage caused, for example, by air conditioning failure or natural disaster. |
-| Information Content Security | Unauthorised Access to Information | Unauthorised access to information, e.g., by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents. |
-| Information Content Security | Unauthorised Modification of Information | Unauthorised modification of information, e.g., by an attacker abusing stolen login credentials for a system or application, or ransomware encrypting data. Also includes defacements. |
-| Information Content Security | Data Loss | Loss of data caused by, for example, hard disk failure or physical theft. |
-| Information Content Security | Leak of Confidential Information | Leaked confidential information, e.g., credentials or personal data. |
+| Information Security | Unauthorised Access to Information | Unauthorised access to information, e.g., by abusing stolen login credentials for a system or application, intercepting traffic or gaining access to physical documents. |
+| Information Security | Unauthorised Modification of Information | Unauthorised modification of information, e.g., by an attacker abusing stolen login credentials for a system or application, or ransomware encrypting data. Also includes defacements. |
+| Information Security | Data Loss | Loss of data caused by, for example, hard disk failure or physical theft. |
+| Information Security | Leak of Confidential Information | Leaked confidential information, e.g., credentials or personal data. |
 | Fraud | Unauthorised Use of Resources | Using resources for unauthorised purposes including profit-making ventures, e.g., the use of email to participate in illegal profit chain letters or pyramid schemes. |
 | Fraud | Copyright | Offering or installing copies of unlicensed commercial software or other copyright protected materials (also known as Warez). |
 | Fraud | Masquerade | Type of attack in which one entity illegitimately impersonates the identity of another in order to benefit from it. |
