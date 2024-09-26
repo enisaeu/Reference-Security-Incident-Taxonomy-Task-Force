@@ -6,9 +6,6 @@ During the ‘51st TF-CSIRT meeting’ (held on 15 May 2017 in The Hague, Nether
 
 ENISA and TF-CSIRT therefore created the ‘Reference Security Incident Taxonomy Working Group' (RSIT WG) with the aim of enabling the CSIRT community to reach a consensus on a security incident reference taxonomy. The RSIT WG was approved as official TF-CSIRT working group by the TF-CSIRT Steering Committee on 26 September 2018.
 
-During the 2nd meeting at 53rd TF-CSIRT in Hamburg it was decided to use the [eCSIRT.net incident taxonomy](https://www.trusted-introducer.org/Incident-Classification-Taxonomy.pdf) as the starting point for the RSIT, and use this as it is for version 1 of the RSIT.
-
-For more information visit the [ENISA working document](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy).
 
 ## Contributing
 
@@ -20,9 +17,6 @@ Please follow the below guidelines when contributing to the RSIT GitHub project:
 * When making changes to the RSIT itself only edit the [machinetag](working_copy/machinev1) file; the human-readable file will be automatically generated from this.
 * Discussions regarding the contents of the document shall happen via the mailing list.
 * Should you have any questions, please feel free to first ask the maintainers.
-
-### Contributing to the working group
-To join the working group, please send an email to the ENISA Secretariat ([CSIRT-Relations@enisa.europa.eu](mailto:CSIRT-Relations@enisa.europa.eu)) or sign up for a physical meeting during a TF-CSIRT event. In case of physical meeting, please notify in presence to the ENISA secretariat or via email the request for addition to the mailing list.
 
 Check the [TF-CSIRT meeting page](https://tf-csirt.org/tf-csirt/meetings/) to register for the next upcoming meeting.
 
