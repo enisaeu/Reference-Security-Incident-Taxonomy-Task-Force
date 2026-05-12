@@ -214,7 +214,7 @@
         },
         {
           "description": "Publicly accessible services potentially disclosing sensitive information, e.g., SNMP or Redis.",
-          "expanded": "Information disclosure",
+          "expanded": "Information Disclosure",
           "value": "information-disclosure"
         },
         {
