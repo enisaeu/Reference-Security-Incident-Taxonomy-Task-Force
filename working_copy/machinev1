@@ -74,7 +74,7 @@
         },
         {
           "description": "Multiple brute-force login attempts (including guessing or cracking of passwords). This IOC refers to a resource, which has been observed to perform brute-force attacks over a given application protocol.",
-          "expanded": "Login Attempts",
+          "expanded": "Login Attempt",
           "value": "brute-force"
         },
         {
@@ -209,7 +209,7 @@
         },
         {
           "description": "Potentially unwanted publicly accessible services, e.g., Telnet, RDP or VNC.",
-          "expanded": "Potentially Unwanted Accessible Services",
+          "expanded": "Potentially Unwanted Accessible Service",
           "value": "potentially-unwanted-accessible"
         },
         {
@@ -268,13 +268,13 @@
       "value": "information-gathering"
     },
     {
-      "description": "Intrusion Attempts.",
-      "expanded": "Intrusion Attempts",
+      "description": "Attempt of intruding into a system or application.",
+      "expanded": "Intrusion Attempt",
       "value": "intrusion-attempts"
     },
     {
       "description": "A successful compromise of a system or application (service). This can have been caused remotely by a known or new vulnerability, but also by an unauthorised local access. Also includes being part of a botnet.",
-      "expanded": "Intrusions",
+      "expanded": "Intrusion",
       "value": "intrusions"
     },
     {
