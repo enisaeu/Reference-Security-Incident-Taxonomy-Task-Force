@@ -218,8 +218,8 @@
           "value": "information-disclosure"
         },
         {
-          "description": "A system which is vulnerable to certain attacks, e.g., misconfigured client proxy settings (such as WPAD), outdated operating system version, or cross-site scripting vulnerabilities.",
-          "expanded": "Vulnerable System",
+          "description": "A system, application or service which is vulnerable to certain attacks, e.g., misconfigured client proxy settings (such as WPAD), outdated operating system version, or cross-site scripting vulnerabilities.",
+          "expanded": "Vulnerable System, Application and Service",
           "value": "vulnerable-system"
         }
       ],
