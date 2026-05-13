@@ -221,6 +221,11 @@
           "description": "A system which is vulnerable to certain attacks, e.g., misconfigured client proxy settings (such as WPAD), outdated operating system version, or cross-site scripting vulnerabilities.",
           "expanded": "Vulnerable System",
           "value": "vulnerable-system"
+        },
+        {
+          "description": "Weak password complexity and length controls, missing or poor authentication factors (e.g. captcha code, OTP, etc.), presence of default account/password, breach of SoD rules, broken certificates, etc.",
+          "expanded": "Weak Access Control (password, profiles, authentication factors)",
+          "value": "weak access control"
         }
       ],
       "predicate": "vulnerable"
