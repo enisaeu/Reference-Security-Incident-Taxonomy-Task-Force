@@ -18,7 +18,7 @@ Please follow the below guidelines when contributing to the RSIT GitHub project:
 * Discussions regarding the contents of the document shall happen via the mailing list.
 * Should you have any questions, please feel free to first ask the maintainers.
 
-Check the [TF-CSIRT meeting page](https://tf-csirt.org/tf-csirt/meetings/) to register for the next upcoming meeting.
+Check the [TF-CSIRT meeting page](https://tf-csirt.org/events/) to register for the next upcoming meeting.
 
 ## Licencing
 This GitHub project is licenced under CC0 1.0 Universal (CC0 1.0). For more information see the [licence](LICENCE).
